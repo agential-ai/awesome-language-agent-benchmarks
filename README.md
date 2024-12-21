@@ -138,6 +138,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Chan, Jun Shern, et al. "Mle-bench: Evaluating machine learning agents on machine learning engineering." arXiv preprint arXiv:2410.07095 (2024). [[paper](https://arxiv.org/abs/2410.07095)] [[project](https://github.com/openai/mle-bench)]
 - Chen, Ziru, et al. "Scienceagentbench: Toward rigorous assessment of language agents for data-driven scientific discovery." arXiv preprint arXiv:2410.05080 (2024). [[paper](https://arxiv.org/abs/2410.05080)] [[project](https://osu-nlp-group.github.io/ScienceAgentBench/)]
 - Jansen, Peter, et al. "DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents." arXiv preprint arXiv:2406.06769 (2024). [[paper](https://arxiv.org/abs/2406.06769)] [[project](https://github.com/allenai/discoveryworld)]
+- Huang, Qian, et al. "Benchmarking large language models as ai research agents." NeurIPS 2023 Foundation Models for Decision Making Workshop. 2023. [[paper](https://openreview.net/forum?id=kXlTY0BmK3)] [[project](https://github.com/snap-stanford/MLAgentBench)]
 
 ## 🧰 Tool-Use
 ---
