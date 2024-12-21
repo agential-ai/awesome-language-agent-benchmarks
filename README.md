@@ -65,7 +65,7 @@
 
 ---
 
-**Tool-Use**
+🧰 **Tool-Use**
 - Wang, Jize, et al. "GTA: A Benchmark for General Tool Agents." arXiv preprint arXiv:2407.08713 (2024). [[paper](https://arxiv.org/abs/2407.08713)] [[project](https://github.com/open-compass/GTA)]
 - Yao, Shunyu, et al. "$\tau $-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains." arXiv preprint arXiv:2406.12045 (2024). [[paper](https://arxiv.org/abs/2406.12045)] [[project](https://github.com/sierra-research/tau-bench)]
 - Lu, Jiarui, et al. "Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities." arXiv preprint arXiv:2408.04682 (2024). [[paper](https://arxiv.org/abs/2408.04682)] [[project](https://github.com/apple/ToolSandbox)]
@@ -73,7 +73,7 @@
 
 ---
 
-**Multi-Agent**
+👪 **Multi-Agent**
 - Ossowski, Timothy, et al. "COMMA: A Communicative Multimodal Multi-Agent Benchmark." arXiv preprint arXiv:2410.07553 (2024). [[paper](https://arxiv.org/abs/2410.07553)]
 - Wainwright, Marcus. “AI-Olympics: A Multi-Agent Benchmark for Evaluation of Active Inference.” [[paper](https://www.semanticscholar.org/paper/AI-Olympics%3A-A-Multi-Agent-Benchmark-for-Evaluation-Wainwright/4eab872366b0b0605f2c58f1f0cc17441a69e9a0)]
 - Li, Yiming, et al. "V2X-Sim: Multi-agent collaborative perception dataset and benchmark for autonomous driving." IEEE Robotics and Automation Letters 7.4 (2022): 10914-10921. [[paper](https://ieeexplore.ieee.org/abstract/document/9835036?casa_token=C5VNzuCWkQEAAAAA:-zEsnhIufpQS6IGy8ZwQDgOmLjxP7hIevrb5nuigrAdjAk30HaMKsG2w6OmQx20diOLQAz9NhA)] [[project](https://ai4ce.github.io/V2X-Sim/)]
