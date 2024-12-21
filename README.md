@@ -41,3 +41,8 @@
  - Wang, Zilong, et al. "Officebench: Benchmarking language agents across multiple applications for office automation." arXiv preprint arXiv:2407.19056 (2024). [[paper](https://arxiv.org/abs/2407.19056)]
  - Jang, Lawrence, et al. "Videowebarena: Evaluating long context multimodal agents with video understanding web tasks." arXiv preprint arXiv:2410.19100 (2024). [[paper](https://arxiv.org/abs/2410.19100)]
  - Zou, Anni, et al. "DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems." arXiv preprint arXiv:2407.10701 (2024). [[paper](https://arxiv.org/abs/2407.10701)] [[project](https://github.com/Anni-Zou/DocBench)]
+
+
+---
+Software Engineering
+- Carlos E. Jimenez, John Yang, et al. "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" arXiv preprint arXiv:2310.06770 (2023). [[paper](https://arxiv.org/abs/2310.06770)] [[project](https://github.com/swe-bench/SWE-bench)]
