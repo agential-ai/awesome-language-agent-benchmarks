@@ -30,6 +30,10 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 5. [🔍 RAG](#-rag)
 6. [🤖🤖 Multi-Agent](#-multi-agent)
 7. [🗄️ Other Awesome Lists](#%EF%B8%8F-other-awesome-lists)
+   - [Language Agent](#language-agent)
+   - [RAG](#rag)
+   - [LLM](#llm)
+  
 
 ---
 
@@ -52,6 +56,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 - Yin, Guoli, et al. "**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains.**" arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
 - Liu, Zhiwei, et al. "**Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents.**" arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
+- Mialon, Grégoire, et al. "Gaia: a benchmark for general ai assistants." arXiv preprint arXiv:2311.12983 (2023). [[paper](https://arxiv.org/abs/2311.12983)] [[project](https://huggingface.co/gaia-benchmark)]
 
 ### Planning & Interaction
 
@@ -170,6 +175,8 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ## 🗄️ Other Awesome Lists
 
+### Language Agent
+
 - https://github.com/Paitesanshi/LLM-Agent-Survey
 - https://github.com/git-disl/awesome-LLM-game-agent-papers
 - https://github.com/woooodyy/llm-agent-paper-list
@@ -183,3 +190,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - https://github.com/kaushikb11/awesome-llm-agents
 - https://github.com/e2b-dev/awesome-ai-agents
 - https://github.com/kyrolabs/awesome-agents
+
+### RAG
+
+### LLM
