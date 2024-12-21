@@ -162,6 +162,9 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ## 🗄️ Other Awesome Lists
 
+- https://github.com/Paitesanshi/LLM-Agent-Survey
+- https://github.com/git-disl/awesome-LLM-game-agent-papers
+- https://github.com/woooodyy/llm-agent-paper-list
 - https://github.com/ysymyth/awesome-language-agents
 - https://github.com/AGI-Edgerunners/LLM-Agents-Papers
 - https://github.com/zjunlp/LLMAgentPapers
