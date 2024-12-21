@@ -75,6 +75,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ### Computer
 
+- Xu, Tianqi, et al. "Crab: Cross-environment agent benchmark for multimodal language model agents." arXiv preprint arXiv:2407.01511 (2024). [[paper](https://arxiv.org/abs/2407.01511)] [[project](https://github.com/camel-ai/crab)]
 - Xie, Tianbao, et al. "Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments." arXiv preprint arXiv:2404.07972 (2024). [[paper](https://arxiv.org/abs/2404.07972)] [[project](https://os-world.github.io)]
 - Bonatti, Rogerio, et al. "Windows agent arena: Evaluating multi-modal os agents at scale." arXiv preprint arXiv:2409.08264 (2024). [[paper](https://arxiv.org/abs/2409.08264)] [[project](https://microsoft.github.io/WindowsAgentArena/)]
 - Wang, Zilong, et al. "Officebench: Benchmarking language agents across multiple applications for office automation." arXiv preprint arXiv:2407.19056 (2024). [[paper](https://arxiv.org/abs/2407.19056)]
@@ -149,7 +150,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Chen, Zehui, et al. "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step." arXiv preprint arXiv:2312.14033 (2023). [[paper](https://arxiv.org/abs/2312.14033)] [[project](https://github.com/open-compass/T-Eval)]
 - Wu, Mengsong, et al. "Seal-tools: Self-instruct tool learning dataset for agent tuning and detailed benchmark." CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29)] [[project](https://github.com/fairyshine/Seal-Tools)]
 - Guo, Zishan, Yufei Huang, and Deyi Xiong. "Ctooleval: A chinese benchmark for llm-powered agent evaluation in real-world API interactions." Findings of the Association for Computational Linguistics ACL 2024. 2024. [[paper](https://aclanthology.org/2024.findings-acl.928/)] [[project](https://github.com/tjunlp-lab/CToolEval)]
-
+- Li, Minghao, et al. "Api-bank: A comprehensive benchmark for tool-augmented llms." arXiv preprint arXiv:2304.08244 (2023). [[paper](https://arxiv.org/abs/2304.08244)] [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
 ## 🔍 RAG
 ---
