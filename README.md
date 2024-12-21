@@ -56,7 +56,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 - Yin, Guoli, et al. "**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains.**" arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
 - Liu, Zhiwei, et al. "**Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents.**" arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
-- Mialon, Grégoire, et al. "Gaia: a benchmark for general ai assistants." arXiv preprint arXiv:2311.12983 (2023). [[paper](https://arxiv.org/abs/2311.12983)] [[project](https://huggingface.co/gaia-benchmark)]
+- Mialon, Grégoire, et al. "**Gaia: a benchmark for general ai assistants.**" arXiv preprint arXiv:2311.12983 (2023). [[paper](https://arxiv.org/abs/2311.12983)] [[project](https://huggingface.co/gaia-benchmark)]
 
 ### Planning & Interaction
 
