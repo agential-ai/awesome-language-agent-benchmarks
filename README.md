@@ -51,6 +51,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ### Multi-Task
 
 - Yin, Guoli, et al. "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains." arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
+- Liu, Zhiwei, et al. "Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents." arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
 
 ### Planning & Interaction
 
@@ -97,7 +98,6 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Yao, Shunyu, et al. "Webshop: Towards scalable real-world web interaction with grounded language agents." Advances in Neural Information Processing Systems 35 (2022): 20744-20757. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html)] [[project](https://webshop-pnlp.github.io)]
 - Lin, Kevin Qinghong, et al. "VideoGUI: A Benchmark for GUI Automation from Instructional Videos." arXiv preprint arXiv:2406.10227 (2024). [[paper](https://showlab.github.io/videogui/assets/preprint.pdf)] [[project](https://showlab.github.io/videogui/)]
 - Deng, Xiang, et al. "Mind2web: Towards a generalist agent for the web." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)] [[project](https://osu-nlp-group.github.io/Mind2Web/)]
-- Liu, Zhiwei, et al. "Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents." arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
 
 
 ### Mobile
