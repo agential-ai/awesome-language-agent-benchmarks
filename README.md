@@ -75,6 +75,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ### Computer
 
+- Kapoor, Raghav, et al. "OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web." European Conference on Computer Vision. Springer, Cham, 2025. [[paper](https://arxiv.org/abs/2402.17553)]
 - Xu, Tianqi, et al. "Crab: Cross-environment agent benchmark for multimodal language model agents." arXiv preprint arXiv:2407.01511 (2024). [[paper](https://arxiv.org/abs/2407.01511)] [[project](https://github.com/camel-ai/crab)]
 - Xie, Tianbao, et al. "Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments." arXiv preprint arXiv:2404.07972 (2024). [[paper](https://arxiv.org/abs/2404.07972)] [[project](https://os-world.github.io)]
 - Bonatti, Rogerio, et al. "Windows agent arena: Evaluating multi-modal os agents at scale." arXiv preprint arXiv:2409.08264 (2024). [[paper](https://arxiv.org/abs/2409.08264)] [[project](https://microsoft.github.io/WindowsAgentArena/)]
@@ -84,9 +85,9 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Humphreys, Peter C., et al. "A data-driven approach for learning to control computers." International Conference on Machine Learning. PMLR, 2022. [[paper](https://arxiv.org/pdf/2202.08137)]
 
 
-
 ### Web
 
+- Zhang, Ziniu, et al. "MMInA: Benchmarking Multihop Multimodal Internet Agents." arXiv preprint arXiv:2404.09992 (2024). [[paper](https://arxiv.org/abs/2404.09992)] [[project](https://mmina.cliangyu.com/)]
 - Zhou, Shuyan, et al. "Webarena: A realistic web environment for building autonomous agents." arXiv preprint arXiv:2307.13854 (2023). [[paper](https://arxiv.org/abs/2307.13854)] [[project](https://webarena.dev)]
 - Koh, Jing Yu, et al. "Visualwebarena: Evaluating multimodal agents on realistic visual web tasks." arXiv preprint arXiv:2401.13649 (2024). [[paper](https://arxiv.org/abs/2401.13649)] [[project](https://jykoh.com/vwa)]
 - Yoran, Ori, et al. "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?." arXiv preprint arXiv:2407.15711 (2024). [[paper](https://arxiv.org/abs/2407.15711)] [[project](https://assistantbench.github.io)]
