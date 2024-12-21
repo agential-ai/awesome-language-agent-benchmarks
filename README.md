@@ -5,7 +5,7 @@
 
 As Large Language Models (LLMs) demonstrate strong performance in their ability to reason, plan, and make decisions, many researchers are studying how to leverage these models to perform various tasks in diverse environments, hence the term Language Agents.
 
-📚 This repository is an awesome and ongoing list of benchmarks for LLM/language agents. This repository's purpose is to provide a comprehensive, organized list of these benchmarks. _Pull requests and issues are welcome!_ 😎
+📚 This awesome (and ongoing) repository aims to provide a comprehensive, organized list of LLM/language agent benchmarks! _Pull requests and issues are welcome!_ 😎
 
 ---
 
