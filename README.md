@@ -62,6 +62,9 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 #### Code
 
+- Chen, Mark, et al. "**Evaluating large language models trained on code.**" arXiv preprint arXiv:2107.03374 (2021). [[paper](https://arxiv.org/abs/2107.03374)] [[project](https://github.com/openai/human-eval)]
+- Austin, Jacob, et al. "**Program synthesis with large language models.**" arXiv preprint arXiv:2108.07732 (2021). [[paper](https://arxiv.org/pdf/2108.07732)] [[project](https://github.com/google-research/google-research/tree/master/mbpp)]
+
 ### Embodied
 
 - Shridhar, Mohit, et al. "**Alfworld: Aligning text and embodied environments for interactive learning.**" arXiv preprint arXiv:2010.03768 (2020). [[paper](https://arxiv.org/abs/2010.03768)] [[project](https://alfworld.github.io)]
