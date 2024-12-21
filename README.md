@@ -130,6 +130,9 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ### Data Science & ML
 
+- Zhang, Yuge, et al. "Benchmarking Data Science Agents." arXiv preprint arXiv:2402.17168 (2024). [[paper](https://arxiv.org/abs/2402.17168)] [[project](https://github.com/MetaCopilot/dseval)]
+- Gu, Ken, et al. "Blade: Benchmarking language model agents for data-driven science." arXiv preprint arXiv:2408.09667 (2024). [[paper](https://arxiv.org/abs/2408.09667)] [[project](https://github.com/behavioral-data/BLADE)]
+- Zhang, Dan, et al. "DataSciBench: An LLM Agent Benchmark for Data Science." [[paper](https://openreview.net/forum?id=BltaWJZMeR)]
 - Huang, Yiming, et al. "DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models." arXiv preprint arXiv:2410.07331 (2024). [[paper](https://arxiv.org/abs/2410.07331)] [[project](https://da-code-bench.github.io/)]
 - Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024).Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024). [[paper](https://arxiv.org/abs/2401.05507)] [[project](https://github.com/InfiAgent/InfiAgent)]
 - Chan, Jun Shern, et al. "Mle-bench: Evaluating machine learning agents on machine learning engineering." arXiv preprint arXiv:2410.07095 (2024). [[paper](https://arxiv.org/abs/2410.07095)] [[project](https://github.com/openai/mle-bench)]
