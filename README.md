@@ -1,7 +1,5 @@
 ![](https://github.com/agential-ai/awesome-language-agent-benchmarks/blob/main/banner.png)
 
-# Awesome Language Agent Benchmarks
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
