@@ -7,8 +7,6 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 📚 This repository is an awesome and ongoing list of benchmarks for LLM/language agents. This repository's purpose is to provide a comprehensive, organized list of these benchmarks. _Pull requests and issues are welcome!_ 😎
 
-Here’s a table of contents for your "Awesome Language Agent Benchmarks" repository:
-
 ---
 
 ## Table of Contents
