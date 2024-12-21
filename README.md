@@ -51,7 +51,7 @@
 
 🔨 **Software Engineering**
 - Carlos E. Jimenez, John Yang, et al. "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" arXiv preprint arXiv:2310.06770 (2023). [[paper](https://arxiv.org/abs/2310.06770)] [[project](https://github.com/swe-bench/SWE-bench)]
-- Aleithan, Reem, et al. "SWE-Bench+: Enhanced Coding Benchmark for LLMs." arXiv preprint arXiv:2410.06992 (2024). [[paper](https://arxiv.org/abs/2410.06992)] [[project](https://github.com/swe-bench/SWE-bench)] ???
+- Aleithan, Reem, et al. "SWE-Bench+: Enhanced Coding Benchmark for LLMs." arXiv preprint arXiv:2410.06992 (2024). [[paper](https://arxiv.org/abs/2410.06992)] [[project](https://www.swebench.com/index.html)]
 - Zan, Daoguang, et al. "Swe-bench-java: A github issue resolving benchmark for java." arXiv preprint arXiv:2408.14354 (2024). [[paper](https://arxiv.org/abs/2408.14354)] [[project](https://github.com/multi-swe-bench/multi-swe-bench-env)]
 - Yang, John, et al. "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?." arXiv preprint arXiv:2410.03859 (2024). [[paper](https://arxiv.org/abs/2410.03859)] [[project](https://www.swebench.com/multimodal))]
 - Gu, Alex, et al. "Cruxeval: A benchmark for code reasoning, understanding and execution." arXiv preprint arXiv:2401.03065 (2024). [[paper](https://arxiv.org/abs/2401.03065)] [[project](https://github.com/facebookresearch/cruxeval)]
