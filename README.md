@@ -37,7 +37,17 @@
  - Zhang, Danyang, et al. "Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction." arXiv preprint arXiv:2305.08144 (2023). [[paper](https://rhythmcao.github.io/publication/2024-mobile-env/2024-mobile-env.pdf)] [[project](https://github.com/X-LANCE/Mobile-Env)]
  - Xu, Kevin, et al. "Tur [k] ingbench: A challenge benchmark for web agents." arXiv preprint arXiv:2403.11905 (2024). [[paper](https://arxiv.org/abs/2403.11905)] [[project](https://github.com/JHU-CLSP/turking-bench)] --- TO REVIEW ---
  - Lee, Juyong, et al. "Benchmarking Mobile Device Control Agents across Diverse Configurations." arXiv preprint arXiv:2404.16660 (2024). [[paper](https://arxiv.org/abs/2404.16660)] [[project](https://b-moca.github.io)]
- - [[paper]()] [[project]()]
  - Wang, Zilong, et al. "Officebench: Benchmarking language agents across multiple applications for office automation." arXiv preprint arXiv:2407.19056 (2024). [[paper](https://arxiv.org/abs/2407.19056)]
  - Jang, Lawrence, et al. "Videowebarena: Evaluating long context multimodal agents with video understanding web tasks." arXiv preprint arXiv:2410.19100 (2024). [[paper](https://arxiv.org/abs/2410.19100)]
  - Zou, Anni, et al. "DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems." arXiv preprint arXiv:2407.10701 (2024). [[paper](https://arxiv.org/abs/2407.10701)] [[project](https://github.com/Anni-Zou/DocBench)]
+ - Xu, Frank F., et al. “Theagentcompany: Benchmarking LLM Agents on Consequential Real World Tasks.” arXiv.Org, 18 Dec. 2024, arxiv.org/abs/2412.14161. [[paper](https://arxiv.org/abs/2412.14161)] [[project](https://github.com/TheAgentCompany/TheAgentCompany)]
+ - Wang, Luyuan, et al. "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents." arXiv preprint arXiv:2406.08184 (2024). [[paper](https://arxiv.org/abs/2406.08184)] [[project](https://mobileagentbench.github.io)]
+ - Drouin, Alexandre, et al. "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?." arXiv preprint arXiv:2403.07718 (2024). [[paper](https://arxiv.org/abs/2403.07718)] [[project](https://github.com/ServiceNow/WorkArena)]
+ - Rodriguez, Juan, et al. "BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks." arXiv preprint arXiv:2412.04626 (2024). [[paper](https://arxiv.org/abs/2412.04626)] [[project](https://openreview.net/forum?id=b1ivBPLb1n)]
+ - Trivedi, Harsh, et al. "Appworld: A controllable world of apps and people for benchmarking interactive coding agents." arXiv preprint arXiv:2407.18901 (2024). [[paper](https://arxiv.org/abs/2407.18901)] [[project](https://github.com/StonyBrookNLP/appworld)]
+ - Lin, Kevin Qinghong, et al. "VideoGUI: A Benchmark for GUI Automation from Instructional Videos." arXiv preprint arXiv:2406.10227 (2024). [[paper](https://showlab.github.io/videogui/assets/preprint.pdf)] [[project](https://showlab.github.io/videogui/)]
+
+---
+**Software Engineering**
+ - [[paper]()] [[project]()]
+ - 
