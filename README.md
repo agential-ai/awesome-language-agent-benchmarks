@@ -74,6 +74,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Choi, Jae-Woo, et al. "**Lota-bench: Benchmarking language-oriented task planners for embodied agents.**" arXiv preprint arXiv:2402.08178 (2024). [[paper](https://arxiv.org/abs/2402.08178)] [[project](https://choi-jaewoo.github.io/LoTa-Bench/)]
 - Xu, Tianqi, et al. "**CRAB: Cross-platfrom agent benchmark for multi-modal embodied language model agents.**" NeurIPS 2024 Workshop on Open-World Agents. 2024. [[paper](https://openreview.net/forum?id=kyExS4V0H7)] [[project](https://pypi.org/project/crab-framework/)]
 - Zhang, Lingfeng, et al. "**ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models.**" arXiv preprint arXiv:2410.14682 (2024). [[paper](https://arxiv.org/abs/2410.14682)]
+- Framework, LLM Multi-Agent. "**VillagerBench: Benchmarking Multi-Agent Collaboration in Minecraft.**" [[paper](https://openreview.net/forum?id=SI94CGKCus)]
 
 
 ### Game-Playing
@@ -89,9 +90,6 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Yin, Guoli, et al. "**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains.**" arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
 - Liu, Zhiwei, et al. "**Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents.**" arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
 - Mialon, Grégoire, et al. "**Gaia: a benchmark for general ai assistants.**" arXiv preprint arXiv:2311.12983 (2023). [[paper](https://arxiv.org/abs/2311.12983)] [[project](https://huggingface.co/gaia-benchmark)]
-- Zhang, Yaolun, et al. "**PyBench: Evaluating LLM Agent on various real-world coding tasks.**" arXiv preprint arXiv:2407.16732 (2024). [[paper](https://arxiv.org/abs/2407.16732)]
-- Deng, Shihan, et al. "**Mobile-bench: An evaluation benchmark for llm-based mobile agents.**" arXiv preprint arXiv:2407.00993 (2024). [[paper](https://arxiv.org/abs/2407.00993)]
-- Framework, LLM Multi-Agent. "**VillagerBench: Benchmarking Multi-Agent Collaboration in Minecraft.**" [[paper]([https://arxiv.org/abs/2407.00993](https://openreview.net/forum?id=SI94CGKCus)]
 - Wang, Wei, et al. "**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems.**" arXiv preprint arXiv:2408.15971 (2024). [[paper](https://arxiv.org/abs/2408.15971)] [[project](https://github.com/THUDM/BattleAgentBench)]
 - Li, Youquan, et al. "**FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback.**" arXiv preprint arXiv:2410.09412 (2024). [[paper](https://arxiv.org/abs/2410.09412)]
 - Shen, Yongliang, et al. "**Taskbench: Benchmarking large language models for task automation.**" arXiv preprint arXiv:2311.18760 (2023). [[paper](https://arxiv.org/abs/2311.18760)] [[project](https://huggingface.co/datasets/microsoft/Taskbench)]
@@ -154,6 +152,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Mobile
 
+- Deng, Shihan, et al. "**Mobile-bench: An evaluation benchmark for llm-based mobile agents.**" arXiv preprint arXiv:2407.00993 (2024). [[paper](https://arxiv.org/abs/2407.00993)]
 - Rawles, Christopher, et al. "**AndroidWorld: A dynamic benchmarking environment for autonomous agents.**" arXiv preprint arXiv:2405.14573 (2024). [[paper](https://arxiv.org/abs/2405.14573)] [[project](https://google-research.github.io/android_world/)]
 - Zhang, Danyang, et al. "**Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction.**" arXiv preprint arXiv:2305.08144 (2023). [[paper](https://rhythmcao.github.io/publication/2024-mobile-env/2024-mobile-env.pdf)] [[project](https://github.com/X-LANCE/Mobile-Env)]
 - Lee, Juyong, et al. "**Benchmarking Mobile Device Control Agents across Diverse Configurations.**" arXiv preprint arXiv:2404.16660 (2024). [[paper](https://arxiv.org/abs/2404.16660)] [[project](https://b-moca.github.io)]
@@ -179,6 +178,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Siegel, Zachary S., et al. "**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark.**" arXiv preprint arXiv:2409.11363 (2024). [[paper](https://arxiv.org/abs/2409.11363)] [[project](https://github.com/siegelz/core-bench?tab=readme-ov-file)]
 - Guo, Chengquan, et al. "**RedCode: Risky Code Execution and Generation Benchmark for Code Agents.**" arXiv preprint arXiv:2411.07781 (2024). [[paper](https://arxiv.org/abs/2411.07781)] [[project](https://github.com/AI-secure/RedCode)]
 - Zhuo, Terry Yue, et al. "**Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions.**" arXiv preprint arXiv:2406.15877 (2024). [[paper](https://arxiv.org/abs/2406.15877)] [[project](https://github.com/bigcode-project/bigcodebench)]
+- Zhang, Yaolun, et al. "**PyBench: Evaluating LLM Agent on various real-world coding tasks.**" arXiv preprint arXiv:2407.16732 (2024). [[paper](https://arxiv.org/abs/2407.16732)]
 
 
 ### Data Science & ML
