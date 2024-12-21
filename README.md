@@ -73,6 +73,19 @@
 
 ---
 
+
+RAG:
+- Yang, Xiao, et al. "CRAG--Comprehensive RAG Benchmark." arXiv preprint arXiv:2406.04744 (2024). [[paper](https://arxiv.org/abs/2406.04744)] [[project](https://github.com/facebookresearch/CRAG/)]
+- Wang, Shuting, et al. "OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain." arXiv preprint arXiv:2412.13018 (2024). [[paper](https://arxiv.org/abs/2412.13018)] [[project](https://github.com/RUC-NLPIR/OmniEval)]
+- Lyu, Yuanjie, et al. "Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models." ACM Transactions on Information Systems (2024). [[paper](https://dl.acm.org/doi/abs/10.1145/3701228)] [[project](https://github.com/IAAR-Shanghai/CRUD_RAG)]
+- Pipitone, Nicholas, and Ghita Houir Alami. "LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain." arXiv preprint arXiv:2408.10343 (2024). [[paper](https://arxiv.org/abs/2408.10343)] [[project](https://github.com/ZeroEntropy-AI/legalbenchrag)]
+- *RAG*-ConfusionQA [[paper](https://arxiv.org/abs/2410.14567)] [[project](https://github.com/zhiyuanpeng/RAG-ConfusionQA)] [Request access]
+- Kuzman, Taja, et al. "PandaChat-RAG: Towards the Benchmark for Slovenian RAG Applications." (2024).[[paper](https://is.ijs.si/wp-content/uploads/2024/10/SCAI_2024_paper_0538.pdf)] [[project](https://github.com/TajaKuzman/pandachat-rag-benchmark)]
+- GEM [[paper](https://aclanthology.org/2021.gem-1.10/)] [[project](https://huggingface.co/datasets/GEM/gem)]
+- Gehrmann, Sebastian, et al. "Gemv2: Multilingual nlg benchmarking in a single line of code." arXiv preprint arXiv:2206.11249 (2022).  [[paper](https://arxiv.org/abs/2206.11249)]
+
+---
+
 👪 **Multi-Agent**
 - Ossowski, Timothy, et al. "COMMA: A Communicative Multimodal Multi-Agent Benchmark." arXiv preprint arXiv:2410.07553 (2024). [[paper](https://arxiv.org/abs/2410.07553)]
 - Wainwright, Marcus. “AI-Olympics: A Multi-Agent Benchmark for Evaluation of Active Inference.” [[paper](https://www.semanticscholar.org/paper/AI-Olympics%3A-A-Multi-Agent-Benchmark-for-Evaluation-Wainwright/4eab872366b0b0605f2c58f1f0cc17441a69e9a0)]
@@ -88,5 +101,4 @@
 - Jeon, Jeewon, et al. "Maser: Multi-agent reinforcement learning with subgoals generated from experience replay buffer." International Conference on Machine Learning. PMLR, 2022. [[paper](https://proceedings.mlr.press/v162/jeon22a.html)]
 - Wang, Weizheng, et al. "Multi-robot cooperative socially-aware navigation using multi-agent reinforcement learning." 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10611322?casa_token=lrAM0ZnNSLEAAAAA:SqszOO-TuRfTOG2XL0jRKxHs0fRWcS3om8MsFIrXkgMyvAiysLalBjBT0QOMejNMR9oMaC-DWA)]
 - Pan, Xuehai, et al. "Mate: Benchmarking multi-agent reinforcement learning in distributed target coverage control." Advances in Neural Information Processing Systems 35 (2022): 27862-27879. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)]
-
 
