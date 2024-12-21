@@ -43,7 +43,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ### LLM Benchmarks
 
-Depending on the domain, some papers test on LLM benchmarks, so we decided to also include a couple common ones with links to more.
+Depending on the domain, some agents are tested on LLM benchmarks. So we briefly include a couple popular ones. You can find comprehensive lists of LLM benchmarks in the [🗄️ Other Awesome Lists](#%EF%B8%8F-other-awesome-lists) section!
 
 #### QA
 
