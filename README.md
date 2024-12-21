@@ -1,7 +1,12 @@
 ![](https://github.com/agential-ai/awesome-language-agent-benchmarks/blob/main/banner.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+</p>
+
 
 As Large Language Models (LLMs) demonstrate strong performance in their ability to reason, plan, and make decisions, many researchers are studying how to leverage these models to perform various tasks involving these complex abilities in diverse environments, hence the term Language Agents. In a burgeoning field, language agent evaluation is being rapidly developed and challenges arise when it comes to measuring an agent's performance on diverse tasks ranging from QA, math, code, to planning, decision-making, and web navigation. Thus, it's imperative to understand the existing evaluation approaches and benchmarks!
 
