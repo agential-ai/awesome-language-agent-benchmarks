@@ -11,7 +11,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ## Table of Contents
 
-1. [General](#-general)
+1. [🧠 General](#-general)
    - [Embodied](#embodied)
    - [Game-Playing](#game-playing)
    - [Multi-Task](#multi-task)
