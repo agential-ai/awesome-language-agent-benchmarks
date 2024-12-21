@@ -144,6 +144,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Lu, Jiarui, et al. "Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities." arXiv preprint arXiv:2408.04682 (2024). [[paper](https://arxiv.org/abs/2408.04682)] [[project](https://github.com/apple/ToolSandbox)]
 - Chen, Zehui, et al. "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step." arXiv preprint arXiv:2312.14033 (2023). [[paper](https://arxiv.org/abs/2312.14033)] [[project](https://github.com/open-compass/T-Eval)]
 - Wu, Mengsong, et al. "Seal-tools: Self-instruct tool learning dataset for agent tuning and detailed benchmark." CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29)] [[project](https://github.com/fairyshine/Seal-Tools)]
+- Guo, Zishan, Yufei Huang, and Deyi Xiong. "Ctooleval: A chinese benchmark for llm-powered agent evaluation in real-world API interactions." Findings of the Association for Computational Linguistics ACL 2024. 2024. [[paper](https://aclanthology.org/2024.findings-acl.928/)] [[project](https://github.com/tjunlp-lab/CToolEval)]
 
 
 ## 🔍 RAG
