@@ -39,13 +39,14 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ### Embodied
 
 - Shridhar, Mohit, et al. "Alfworld: Aligning text and embodied environments for interactive learning." arXiv preprint arXiv:2010.03768 (2020). [[paper](https://arxiv.org/abs/2010.03768)] [[project](https://alfworld.github.io)]
-
+- Kannan, Shyam Sundar, Vishnunandan LN Venkatesh, and Byung-Cheol Min. "Smart-llm: Smart multi-agent robot task planning using large language models." arXiv preprint arXiv:2309.10062 (2023). [[paper](https://arxiv.org/abs/2309.10062)] [[project](https://github.com/SMARTlab-Purdue/SMART-LLM)]
 
 ### Game-Playing
 
 - Wu, Yue, et al. "Smartplay: A benchmark for llms as intelligent agents." arXiv preprint arXiv:2310.01557 (2023). [[paper](https://arxiv.org/abs/2310.01557)]
 - Gioacchini, Luca, et al. "AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents." arXiv preprint arXiv:2404.06411 (2024). [[paper](https://arxiv.org/abs/2404.06411)] [[project](https://github.com/nec-research/agentquest)]
 - Liu, Xiao, et al. "Agentbench: Evaluating llms as agents." arXiv preprint arXiv:2308.03688 (2023). [[paper](https://arxiv.org/abs/2308.03688)] [[project](https://github.com/THUDM/AgentBench)]
+- Liu, Xiao, et al. "Visualagentbench: Towards large multimodal models as visual foundation agents." arXiv preprint arXiv:2408.06327 (2024). [[paper](https://arxiv.org/abs/2408.06327)] [[project](https://github.com/THUDM/VisualAgentBench)]
 
 ### Multi-Task
 
@@ -158,7 +159,6 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ---
 
 - Ossowski, Timothy, et al. "COMMA: A Communicative Multimodal Multi-Agent Benchmark." arXiv preprint arXiv:2410.07553 (2024). [[paper](https://arxiv.org/abs/2410.07553)]
-- Kannan, Shyam Sundar, Vishnunandan LN Venkatesh, and Byung-Cheol Min. "Smart-llm: Smart multi-agent robot task planning using large language models." arXiv preprint arXiv:2309.10062 (2023). [[paper](https://arxiv.org/abs/2309.10062)] [[project](https://github.com/SMARTlab-Purdue/SMART-LLM)]
 - Xu, Lin, et al. "MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration." arXiv preprint arXiv:2311.08562 (2023). [[paper](https://arxiv.org/abs/2311.08562)] [[project](https://zhiyuanhubj.github.io/MAgIC/)]
 
 ## 🗄️ Other Awesome Lists
