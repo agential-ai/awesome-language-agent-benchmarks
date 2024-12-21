@@ -56,7 +56,9 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 #### Math
 
 - Cobbe, Karl, et al. "**Training verifiers to solve math word problems.**" arXiv preprint arXiv:2110.14168 (2021). [[paper](https://arxiv.org/abs/2110.14168)] [[project](https://github.com/openai/grade-school-math)]
-
+- Patel, Arkil, Satwik Bhattamishra, and Navin Goyal. "**Are NLP models really able to solve simple math word problems?.**" arXiv preprint arXiv:2103.07191 (2021). [[paper](https://arxiv.org/abs/2103.07191)] [[project](https://github.com/arkilpatel/SVAMP)]
+- Lu, Pan, et al. "**Dynamic prompt learning via policy gradient for semi-structured mathematical reasoning.**" arXiv preprint arXiv:2209.14610 (2022). [[paper](https://arxiv.org/abs/2209.14610)] [[project](https://promptpg.github.io/)]
+- Hendrycks, Dan, et al. "**Measuring mathematical problem solving with the math dataset.**" arXiv preprint arXiv:2103.03874 (2021). [[paper](https://arxiv.org/abs/2103.03874)] [[project](https://github.com/hendrycks/math/)]
 
 #### Code
 
