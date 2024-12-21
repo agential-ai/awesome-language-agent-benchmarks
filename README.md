@@ -51,8 +51,12 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Thorne, James, et al. "**FEVER: a large-scale dataset for fact extraction and VERification.**" arXiv preprint arXiv:1803.05355 (2018). [[paper](https://arxiv.org/abs/1803.05355)] [[project](https://fever.ai/)]
 - Joshi, Mandar, et al. "**Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension.**" arXiv preprint arXiv:1705.03551 (2017). [[paper](https://arxiv.org/abs/1705.03551)] [[project](https://nlp.cs.washington.edu/triviaqa/)]
 - Min, Sewon, et al. "**AmbigQA: Answering ambiguous open-domain questions.**" arXiv preprint arXiv:2004.10645 (2020). [[paper](https://arxiv.org/abs/2004.10645)] [[project](https://nlp.cs.washington.edu/ambigqa/)]
+- Hendrycks, Dan, et al. "**Measuring massive multitask language understanding.**" arXiv preprint arXiv:2009.03300 (2020). [[paper](https://arxiv.org/abs/2009.03300)] [[project](https://github.com/hendrycks/test)]
 
 #### Math
+
+- Cobbe, Karl, et al. "**Training verifiers to solve math word problems.**" arXiv preprint arXiv:2110.14168 (2021). [[paper](https://arxiv.org/abs/2110.14168)] [[project](https://github.com/openai/grade-school-math)]
+
 
 #### Code
 
