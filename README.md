@@ -12,24 +12,25 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ## Table of Contents
 
 1. [🧠 General](#-general)
+   - [LLM Benchmarks](#llm-benchmarks)
    - [Embodied](#embodied)
    - [Game-Playing](#game-playing)
    - [Multi-Task](#multi-task)
    - [Planning & Interaction](#planning--interaction)
    - [Role-Playing](#role-playing)
    - [Adversarial](#adversarial)
-2. [💻 Computer Use](#-computer-use)
+3. [💻 Computer Use](#-computer-use)
    - [Computer](#computer)
    - [Web](#web)
    - [Mobile](#mobile)
    - [Documents](#documents)
-3. [🔨 Software Engineering](#-software-engineering)
+4. [🔨 Software Engineering](#-software-engineering)
    - [SWE](#swe)
    - [Data Science & ML](#data-science--ml)
-4. [🧰 Tool-Use](#-tool-use)
-5. [🔍 RAG](#-rag)
-6. [🤖🤖 Multi-Agent](#-multi-agent)
-7. [🗄️ Other Awesome Lists](#%EF%B8%8F-other-awesome-lists)
+5. [🧰 Tool-Use](#-tool-use)
+6. [🔍 RAG](#-rag)
+7. [🤖🤖 Multi-Agent](#-multi-agent)
+8. [🗄️ Other Awesome Lists](#%EF%B8%8F-other-awesome-lists)
    - [Language Agent](#language-agent)
    - [RAG](#rag)
    - [LLM](#llm)
@@ -39,6 +40,21 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ## 🧠 General
 ---
+
+### LLM Benchmarks
+
+Depending on the domain, some papers test on LLM benchmarks, so we decided to also include a couple common ones with links to more.
+
+#### QA
+
+- Yang, Zhilin, et al. "**HotpotQA: A dataset for diverse, explainable multi-hop question answering.**" arXiv preprint arXiv:1809.09600 (2018). [[paper](https://arxiv.org/abs/1809.09600)] [[project](https://hotpotqa.github.io/)]
+- Thorne, James, et al. "**FEVER: a large-scale dataset for fact extraction and VERification.**" arXiv preprint arXiv:1803.05355 (2018). [[paper](https://arxiv.org/abs/1803.05355)] [[project](https://fever.ai/)]
+- Joshi, Mandar, et al. "**Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension.**" arXiv preprint arXiv:1705.03551 (2017). [[paper](https://arxiv.org/abs/1705.03551)] [[project](https://nlp.cs.washington.edu/triviaqa/)]
+- Min, Sewon, et al. "**AmbigQA: Answering ambiguous open-domain questions.**" arXiv preprint arXiv:2004.10645 (2020). [[paper](https://arxiv.org/abs/2004.10645)] [[project](https://nlp.cs.washington.edu/ambigqa/)]
+
+#### Math
+
+#### Code
 
 ### Embodied
 
