@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-As Large Language Models (LLMs) demonstrate strong performance in their ability to reason, plan, and make decisions, many researchers are studying how to leverage these models to perform various tasks in diverse environments, hence the term Language Agents.
+As Large Language Models (LLMs) demonstrate strong performance in their ability to reason, plan, and make decisions, many researchers are studying how to leverage these models to perform various tasks involving these complex abilities in diverse environments, hence the term Language Agents. In a burgeoning field, language agent evaluation is being rapidly developed and challenges arise when it comes to measuring an agent's performance on diverse tasks ranging from QA, math, code, to planning, decision-making, and web navigation. Thus, it's imperative to understand the existing evaluation approaches and benchmarks!
 
 📚 This awesome (and ongoing) repository aims to provide a comprehensive, organized list of LLM/language agent benchmarks! As a bonus, we also provide a comprehensive list of other awesome language-agent-adjacent lists. _Pull requests and issues are welcome!_ 😎
 
