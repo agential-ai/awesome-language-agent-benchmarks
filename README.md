@@ -50,18 +50,30 @@
 ---
 
 🔨 **Software Engineering**
-- [[paper]()] [[project]()]
 - Carlos E. Jimenez, John Yang, et al. "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" arXiv preprint arXiv:2310.06770 (2023). [[paper](https://arxiv.org/abs/2310.06770)] [[project](https://github.com/swe-bench/SWE-bench)]
-- Aleithan, Reem, et al. "SWE-Bench+: Enhanced Coding Benchmark for LLMs." arXiv preprint arXiv:2410.06992 (2024). [[paper](https://arxiv.org/abs/2410.06992)] [[project](https://github.com/swe-bench/SWE-bench)] ???
+- Aleithan, Reem, et al. "SWE-Bench+: Enhanced Coding Benchmark for LLMs." arXiv preprint arXiv:2410.06992 (2024). [[paper](https://arxiv.org/abs/2410.06992)] [[project](https://www.swebench.com/index.html)]
 - Zan, Daoguang, et al. "Swe-bench-java: A github issue resolving benchmark for java." arXiv preprint arXiv:2408.14354 (2024). [[paper](https://arxiv.org/abs/2408.14354)] [[project](https://github.com/multi-swe-bench/multi-swe-bench-env)]
 - Yang, John, et al. "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?." arXiv preprint arXiv:2410.03859 (2024). [[paper](https://arxiv.org/abs/2410.03859)] [[project](https://www.swebench.com/multimodal))]
 - Gu, Alex, et al. "Cruxeval: A benchmark for code reasoning, understanding and execution." arXiv preprint arXiv:2401.03065 (2024). [[paper](https://arxiv.org/abs/2401.03065)] [[project](https://github.com/facebookresearch/cruxeval)]
-- 
+- Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024).Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024). [[paper](https://arxiv.org/abs/2401.05507)] [[project](https://github.com/InfiAgent/InfiAgent)]
+- Chan, Jun Shern, et al. "Mle-bench: Evaluating machine learning agents on machine learning engineering." arXiv preprint arXiv:2410.07095 (2024). [[paper](https://arxiv.org/abs/2410.07095)] [[project](https://github.com/openai/mle-bench)]
+- Ellis, Benjamin, et al. "Smacv2: An improved benchmark for cooperative multi-agent reinforcement learning." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/764c18ad230f9e7bf6a77ffc2312c55e-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/oxwhirl/smacv2)]
+- Chen, Ziru, et al. "Scienceagentbench: Toward rigorous assessment of language agents for data-driven scientific discovery." arXiv preprint arXiv:2410.05080 (2024). [[paper](https://arxiv.org/abs/2410.05080)] [[project](https://osu-nlp-group.github.io/ScienceAgentBench/)]
+- Zhuo, Terry Yue, et al. "Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions." arXiv preprint arXiv:2406.15877 (2024). [[paper](https://arxiv.org/abs/2406.15877)] [[project](https://github.com/bigcode-project/bigcodebench)]
+- Jansen, Peter, et al. "DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents." arXiv preprint arXiv:2406.06769 (2024). [[paper](https://arxiv.org/abs/2406.06769)] [[project](https://github.com/allenai/discoveryworld)]
+- Guo, Chengquan, et al. "RedCode: Risky Code Execution and Generation Benchmark for Code Agents." arXiv preprint arXiv:2411.07781 (2024). [[paper](https://arxiv.org/abs/2411.07781)] [[project](https://github.com/AI-secure/RedCode)]
+
+---
+
+**Tool-Use**
+- Wang, Jize, et al. "GTA: A Benchmark for General Tool Agents." arXiv preprint arXiv:2407.08713 (2024). [[paper](https://arxiv.org/abs/2407.08713)] [[project](https://github.com/open-compass/GTA)]
+- Yao, Shunyu, et al. "$\tau $-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains." arXiv preprint arXiv:2406.12045 (2024). [[paper](https://arxiv.org/abs/2406.12045)] [[project](https://github.com/sierra-research/tau-bench)]
+- Lu, Jiarui, et al. "Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities." arXiv preprint arXiv:2408.04682 (2024). [[paper](https://arxiv.org/abs/2408.04682)] [[project](https://github.com/apple/ToolSandbox)]
+- Chen, Zehui, et al. "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step." arXiv preprint arXiv:2312.14033 (2023). [[paper](https://arxiv.org/abs/2312.14033)] [[project](https://github.com/open-compass/T-Eval)]
 
 ---
 
 **Multi-Agent**
--  [[paper]()] [[project]()]
 - Ossowski, Timothy, et al. "COMMA: A Communicative Multimodal Multi-Agent Benchmark." arXiv preprint arXiv:2410.07553 (2024). [[paper](https://arxiv.org/abs/2410.07553)]
 - Wainwright, Marcus. “AI-Olympics: A Multi-Agent Benchmark for Evaluation of Active Inference.” [[paper](https://www.semanticscholar.org/paper/AI-Olympics%3A-A-Multi-Agent-Benchmark-for-Evaluation-Wainwright/4eab872366b0b0605f2c58f1f0cc17441a69e9a0)]
 - Li, Yiming, et al. "V2X-Sim: Multi-agent collaborative perception dataset and benchmark for autonomous driving." IEEE Robotics and Automation Letters 7.4 (2022): 10914-10921. [[paper](https://ieeexplore.ieee.org/abstract/document/9835036?casa_token=C5VNzuCWkQEAAAAA:-zEsnhIufpQS6IGy8ZwQDgOmLjxP7hIevrb5nuigrAdjAk30HaMKsG2w6OmQx20diOLQAz9NhA)] [[project](https://ai4ce.github.io/V2X-Sim/)]
@@ -76,3 +88,5 @@
 - Jeon, Jeewon, et al. "Maser: Multi-agent reinforcement learning with subgoals generated from experience replay buffer." International Conference on Machine Learning. PMLR, 2022. [[paper](https://proceedings.mlr.press/v162/jeon22a.html)]
 - Wang, Weizheng, et al. "Multi-robot cooperative socially-aware navigation using multi-agent reinforcement learning." 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10611322?casa_token=lrAM0ZnNSLEAAAAA:SqszOO-TuRfTOG2XL0jRKxHs0fRWcS3om8MsFIrXkgMyvAiysLalBjBT0QOMejNMR9oMaC-DWA)]
 - Pan, Xuehai, et al. "Mate: Benchmarking multi-agent reinforcement learning in distributed target coverage control." Advances in Neural Information Processing Systems 35 (2022): 27862-27879. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)]
+
+
