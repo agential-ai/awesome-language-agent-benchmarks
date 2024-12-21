@@ -60,6 +60,10 @@ Depending on the domain, some papers test on LLM benchmarks, so we decided to al
 
 - Shridhar, Mohit, et al. "**Alfworld: Aligning text and embodied environments for interactive learning.**" arXiv preprint arXiv:2010.03768 (2020). [[paper](https://arxiv.org/abs/2010.03768)] [[project](https://alfworld.github.io)]
 - Kannan, Shyam Sundar, Vishnunandan LN Venkatesh, and Byung-Cheol Min. "**Smart-llm: Smart multi-agent robot task planning using large language models.**" arXiv preprint arXiv:2309.10062 (2023). [[paper](https://arxiv.org/abs/2309.10062)] [[project](https://github.com/SMARTlab-Purdue/SMART-LLM)]
+- Chang, Matthew, et al. "**PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks.**" arXiv preprint arXiv:2411.00081 (2024). [[paper](https://arxiv.org/abs/2411.00081)] [[project](https://ai.meta.com/research/publications/partnr-a-benchmark-for-planning-and-reasoning-in-embodied-multi-agent-tasks/)]
+- Gao, Chen, et al. "**EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment.**" arXiv preprint arXiv:2410.09604 (2024). [[paper](https://arxiv.org/abs/2410.09604)] [[project](https://embodied-city.fiblab.net)]
+- Choi, Jae-Woo, et al. "**Lota-bench: Benchmarking language-oriented task planners for embodied agents.**" arXiv preprint arXiv:2402.08178 (2024). [[paper](https://arxiv.org/abs/2402.08178)] [[project](https://choi-jaewoo.github.io/LoTa-Bench/)]
+
 
 ### Game-Playing
 
@@ -85,11 +89,20 @@ Depending on the domain, some papers test on LLM benchmarks, so we decided to al
 ### Role-Playing
 
 - Tu, Quan, et al. "**Charactereval: A chinese benchmark for role-playing conversational agent evaluation.**" arXiv preprint arXiv:2401.01275 (2024). [[paper](https://arxiv.org/abs/2401.01275)] [[project](https://github.com/morecry/CharacterEval)]
+- Wang, Zekun Moore, et al. "**Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models.**" arXiv preprint arXiv:2310.00746 (2023). [[paper](https://arxiv.org/abs/2310.00746)] [[project](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
+- Chen, Hongzhan, et al. "**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents.**" arXiv preprint arXiv:2403.13679 (2024). [[paper](https://arxiv.org/abs/2403.13679)] [[project](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
+- Liu, Jiaheng, et al. "**RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts.**" The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track. [[paper](https://openreview.net/forum?id=hORTHzt2cE#discussion)]
+- Yan, Ming, et al. "**Larp: Language-agent role play for open-world games.**" arXiv preprint arXiv:2312.17653 (2023). [[paper](https://arxiv.org/abs/2312.17653)] 
 
 
 ### Adversarial
 
 - Debenedetti, Edoardo, et al. "**AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.**" arXiv preprint arXiv:2406.13352 (2024). [[paper](https://arxiv.org/abs/2406.13352)] [[project](https://github.com/ethz-spylab/agentdojo)]
+- Zhang, Hanrong, et al. "**Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents.**" arXiv preprint arXiv:2410.02644 (2024). [[paper](https://arxiv.org/abs/2410.02644)] [[project](https://github.com/agiresearch/ASB)]
+- Andriushchenko, Maksym, et al. "**Agentharm: A benchmark for measuring harmfulness of llm agents.**" arXiv preprint arXiv:2410.09024 (2024). [[paper](https://arxiv.org/abs/2410.09024)] [[project](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)]
+- Yin, Sheng, et al. "**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents.**" arXiv preprint arXiv:2412.13178 (2024). [[paper](https://arxiv.org/abs/2412.13178)] [[project](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)]
+- Yuan, Tongxin, et al. "**R-judge: Benchmarking safety risk awareness for llm agents.**" arXiv preprint arXiv:2401.10019 (2024). [[paper](https://arxiv.org/abs/2401.10019)] [[project](https://rjudgebench.github.io)]
+- BENCHMARK, JUDGE. "**JAILJUDGE: AComprehensive JAILBREAK JUDGE BENCHMARK WITH MULTI-AGENT ENHANCED EXPLANATION EVALUATION FRAMEWORK.**" [[paper](https://openreview.net/forum?id=cLYvhd0pDY)] [[project](https://github.com/usail-hkust/Jailjudge/)]
 
 
 ## 💻 Computer Use
