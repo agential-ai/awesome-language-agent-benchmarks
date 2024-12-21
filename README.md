@@ -20,22 +20,17 @@ Here’s a table of contents for your "Awesome Language Agent Benchmarks" reposi
    - [Planning & Interaction](#planning--interaction)
    - [Role-Playing](#role-playing)
    - [Adversarial](#adversarial)
-
-2. [💻 Computer Use](#computer-use)
+2. [💻 Computer Use](#-computer-use)
    - [Computer](#computer)
    - [Web](#web)
    - [Mobile](#mobile)
    - [Documents](#documents)
-
-3. [🔨 Software Engineering](#software-engineering)
+3. [🔨 Software Engineering](#-software-engineering)
    - [SWE](#swe)
    - [Data Science & ML](#data-science--ml)
-
-4. [🧰 Tool-Use](#tool-use)
-
-5. [🔍 RAG](#rag)
-
-6. [🤖🤖 Multi-Agent](#multi-agent)
+4. [🧰 Tool-Use](#-tool-use)
+5. [🔍 RAG](#-rag)
+6. [🤖🤖 Multi-Agent](#-multi-agent)
 
 ---
 
