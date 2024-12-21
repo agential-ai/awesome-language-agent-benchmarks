@@ -17,7 +17,6 @@
  - Siegel, Zachary S., et al. "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark." arXiv preprint arXiv:2409.11363 (2024). [[paper](https://arxiv.org/abs/2409.11363)] [[project](https://github.com/siegelz/core-bench?tab=readme-ov-file)]
  - Yin, Guoli, et al. "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains." arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
  - Wu, Mengsong, et al. "Seal-tools: Self-instruct tool learning dataset for agent tuning and detailed benchmark." CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29)] [[project](https://github.com/fairyshine/Seal-Tools)]
- - [[paper]()] [[project]()]
 - Valmeekam, Karthik, et al. "Planbench: An extensible benchmark for evaluating large language models on planning and reasoning about change." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a92bcdede88c7afd108072faf5485c8-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/karthikv792/LLMs-Planning)]
 - Cheng, Ching-An, et al. "Llf-bench: Benchmark for interactive learning from language feedback." arXiv preprint arXiv:2312.06853 (2023). [[paper](https://arxiv.org/abs/2312.06853)] [[project](https://github.com/microsoft/LLF-Bench)]
 - Tu, Quan, et al. "Charactereval: A chinese benchmark for role-playing conversational agent evaluation." arXiv preprint arXiv:2401.01275 (2024). [[paper](https://arxiv.org/abs/2401.01275)] [[project](https://github.com/morecry/CharacterEval)]
@@ -26,3 +25,13 @@
 
 ---
 💻 Computer Use
+ - [[paper]()] [[project]()]
+ - Xie, Tianbao, et al. "Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments." arXiv preprint arXiv:2404.07972 (2024). [[paper](https://arxiv.org/abs/2404.07972)] [[project](https://os-world.github.io)]
+ - Bonatti, Rogerio, et al. "Windows agent arena: Evaluating multi-modal os agents at scale." arXiv preprint arXiv:2409.08264 (2024). [[paper](https://arxiv.org/abs/2409.08264)] [[project](https://microsoft.github.io/WindowsAgentArena/)]
+ - Zhou, Shuyan, et al. "Webarena: A realistic web environment for building autonomous agents." arXiv preprint arXiv:2307.13854 (2023). [[paper](https://arxiv.org/abs/2307.13854)] [[project](https://webarena.dev)]
+ - Deng, Xiang, et al. "Mind2web: Towards a generalist agent for the web." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)] [[project](https://osu-nlp-group.github.io/Mind2Web/)]
+ - Koh, Jing Yu, et al. "Visualwebarena: Evaluating multimodal agents on realistic visual web tasks." arXiv preprint arXiv:2401.13649 (2024). [[paper](https://arxiv.org/abs/2401.13649)] [[project](https://jykoh.com/vwa)]
+ - Yao, Shunyu, et al. "Webshop: Towards scalable real-world web interaction with grounded language agents." Advances in Neural Information Processing Systems 35 (2022): 20744-20757. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html)] [[project](https://webshop-pnlp.github.io)]
+ - Yoran, Ori, et al. "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?." arXiv preprint arXiv:2407.15711 (2024). [[paper](https://arxiv.org/abs/2407.15711)] [[project](https://assistantbench.github.io)]
+ - Rawles, Christopher, et al. "AndroidWorld: A dynamic benchmarking environment for autonomous agents." arXiv preprint arXiv:2405.14573 (2024). [[paper](https://arxiv.org/abs/2405.14573)] [[project](https://google-research.github.io/android_world/)]
+ - Humphreys, Peter C., et al. "A data-driven approach for learning to control computers." International Conference on Machine Learning. PMLR, 2022. [[paper](https://arxiv.org/pdf/2202.08137)] [[project]()]
