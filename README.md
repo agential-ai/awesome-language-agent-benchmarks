@@ -193,6 +193,10 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 ### RAG
 
+- https://github.com/jxzhangjhu/Awesome-LLM-RAG
+- https://github.com/frutik/Awesome-RAG
+- https://github.com/hymie122/RAG-Survey
+
 ### LLM
 
 - https://github.com/Hannibal046/Awesome-LLM
