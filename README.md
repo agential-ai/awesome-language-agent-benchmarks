@@ -50,10 +50,15 @@
 ---
 
 🔨 **Software Engineering**
-- [[paper]()] [[project]()]
 - Carlos E. Jimenez, John Yang, et al. "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" arXiv preprint arXiv:2310.06770 (2023). [[paper](https://arxiv.org/abs/2310.06770)] [[project](https://github.com/swe-bench/SWE-bench)]
 - Aleithan, Reem, et al. "SWE-Bench+: Enhanced Coding Benchmark for LLMs." arXiv preprint arXiv:2410.06992 (2024). [[paper](https://arxiv.org/abs/2410.06992)] [[project](https://github.com/swe-bench/SWE-bench)] ???
 - Zan, Daoguang, et al. "Swe-bench-java: A github issue resolving benchmark for java." arXiv preprint arXiv:2408.14354 (2024). [[paper](https://arxiv.org/abs/2408.14354)] [[project](https://github.com/multi-swe-bench/multi-swe-bench-env)]
 - Yang, John, et al. "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?." arXiv preprint arXiv:2410.03859 (2024). [[paper](https://arxiv.org/abs/2410.03859)] [[project](https://www.swebench.com/multimodal))]
 - Gu, Alex, et al. "Cruxeval: A benchmark for code reasoning, understanding and execution." arXiv preprint arXiv:2401.03065 (2024). [[paper](https://arxiv.org/abs/2401.03065)] [[project](https://github.com/facebookresearch/cruxeval)]
-
+- Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024).Hu, Xueyu, et al. "Infiagent-dabench: Evaluating agents on data analysis tasks." arXiv preprint arXiv:2401.05507 (2024). [[paper](https://arxiv.org/abs/2401.05507)] [[project](https://github.com/InfiAgent/InfiAgent)]
+- Chan, Jun Shern, et al. "Mle-bench: Evaluating machine learning agents on machine learning engineering." arXiv preprint arXiv:2410.07095 (2024). [[paper](https://arxiv.org/abs/2410.07095)] [[project](https://github.com/openai/mle-bench)]
+- Ellis, Benjamin, et al. "Smacv2: An improved benchmark for cooperative multi-agent reinforcement learning." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/764c18ad230f9e7bf6a77ffc2312c55e-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/oxwhirl/smacv2)]
+- Chen, Ziru, et al. "Scienceagentbench: Toward rigorous assessment of language agents for data-driven scientific discovery." arXiv preprint arXiv:2410.05080 (2024). [[paper](https://arxiv.org/abs/2410.05080)] [[project](https://osu-nlp-group.github.io/ScienceAgentBench/)]
+- Zhuo, Terry Yue, et al. "Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions." arXiv preprint arXiv:2406.15877 (2024). [[paper](https://arxiv.org/abs/2406.15877)] [[project](https://github.com/bigcode-project/bigcodebench)]
+- Jansen, Peter, et al. "DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents." arXiv preprint arXiv:2406.06769 (2024). [[paper](https://arxiv.org/abs/2406.06769)] [[project](https://github.com/allenai/discoveryworld)]
+- Guo, Chengquan, et al. "RedCode: Risky Code Execution and Generation Benchmark for Code Agents." arXiv preprint arXiv:2411.07781 (2024). [[paper](https://arxiv.org/abs/2411.07781)] [[project](https://github.com/AI-secure/RedCode)]
