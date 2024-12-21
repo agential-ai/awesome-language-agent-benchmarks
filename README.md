@@ -10,12 +10,6 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ## General
 ---
 
-- Wu, Mengsong, et al. "Seal-tools: Self-instruct tool learning dataset for agent tuning and detailed benchmark." CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29)] [[project](https://github.com/fairyshine/Seal-Tools)]
-- Cheng, Ching-An, et al. "Llf-bench: Benchmark for interactive learning from language feedback." arXiv preprint arXiv:2312.06853 (2023). [[paper](https://arxiv.org/abs/2312.06853)] [[project](https://github.com/microsoft/LLF-Bench)]
-- Tu, Quan, et al. "Charactereval: A chinese benchmark for role-playing conversational agent evaluation." arXiv preprint arXiv:2401.01275 (2024). [[paper](https://arxiv.org/abs/2401.01275)] [[project](https://github.com/morecry/CharacterEval)]
-- Debenedetti, Edoardo, et al. "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents." arXiv preprint arXiv:2406.13352 (2024). [[paper](https://arxiv.org/abs/2406.13352)] [[project](https://github.com/ethz-spylab/agentdojo)]
-- Wu, Cheng-Kuang, et al. "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents." arXiv preprint arXiv:2406.08747 (2024). [[paper](https://arxiv.org/abs/2406.08747)] [[project](https://github.com/stream-bench/stream-bench)]
-
 ### Embodied
 
 - Shridhar, Mohit, et al. "Alfworld: Aligning text and embodied environments for interactive learning." arXiv preprint arXiv:2010.03768 (2020). [[paper](https://arxiv.org/abs/2010.03768)] [[project](https://alfworld.github.io)]
@@ -30,11 +24,23 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 
 - Yin, Guoli, et al. "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains." arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
 
-### Planning
+### Planning & Interaction
 
 - Valmeekam, Karthik, et al. "Planbench: An extensible benchmark for evaluating large language models on planning and reasoning about change." Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a92bcdede88c7afd108072faf5485c8-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/karthikv792/LLMs-Planning)]
 - Xiao, Ruixuan, et al. "Flowbench: Revisiting and benchmarking workflow-guided planning for llm-based agents." arXiv preprint arXiv:2406.14884 (2024). [[paper](https://arxiv.org/abs/2406.14884)]
 - Xie, Jian, et al. "Travelplanner: A benchmark for real-world planning with language agents." arXiv preprint arXiv:2402.01622 (2024). [[paper](https://arxiv.org/abs/2402.01622)] [[project](https://osu-nlp-group.github.io/TravelPlanner/)]
+- Cheng, Ching-An, et al. "Llf-bench: Benchmark for interactive learning from language feedback." arXiv preprint arXiv:2312.06853 (2023). [[paper](https://arxiv.org/abs/2312.06853)] [[project](https://github.com/microsoft/LLF-Bench)]
+- Wu, Cheng-Kuang, et al. "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents." arXiv preprint arXiv:2406.08747 (2024). [[paper](https://arxiv.org/abs/2406.08747)] [[project](https://github.com/stream-bench/stream-bench)]
+
+### Role-Playing
+
+- Tu, Quan, et al. "Charactereval: A chinese benchmark for role-playing conversational agent evaluation." arXiv preprint arXiv:2401.01275 (2024). [[paper](https://arxiv.org/abs/2401.01275)] [[project](https://github.com/morecry/CharacterEval)]
+
+
+### Adversarial
+
+- Debenedetti, Edoardo, et al. "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents." arXiv preprint arXiv:2406.13352 (2024). [[paper](https://arxiv.org/abs/2406.13352)] [[project](https://github.com/ethz-spylab/agentdojo)]
+
 
 ## 💻 Computer Use
 ---
@@ -118,3 +124,9 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Jeon, Jeewon, et al. "Maser: Multi-agent reinforcement learning with subgoals generated from experience replay buffer." International Conference on Machine Learning. PMLR, 2022. [[paper](https://proceedings.mlr.press/v162/jeon22a.html)]
 - Wang, Weizheng, et al. "Multi-robot cooperative socially-aware navigation using multi-agent reinforcement learning." 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10611322?casa_token=lrAM0ZnNSLEAAAAA:SqszOO-TuRfTOG2XL0jRKxHs0fRWcS3om8MsFIrXkgMyvAiysLalBjBT0QOMejNMR9oMaC-DWA)]
 - Pan, Xuehai, et al. "Mate: Benchmarking multi-agent reinforcement learning in distributed target coverage control." Advances in Neural Information Processing Systems 35 (2022): 27862-27879. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)]
+
+
+## 🔧 Tool-Use
+---
+
+- Wu, Mengsong, et al. "Seal-tools: Self-instruct tool learning dataset for agent tuning and detailed benchmark." CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29)] [[project](https://github.com/fairyshine/Seal-Tools)]
