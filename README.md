@@ -29,7 +29,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 4. [🧰 Tool-Use](#-tool-use)
 5. [🔍 RAG](#-rag)
 6. [🤖🤖 Multi-Agent](#-multi-agent)
-7. [🗄️ Other Awesome Lists](#-other-awesome-lists)
+7. [🗄️ Other Awesome Lists](#%EF%B8%8F-other-awesome-lists)
 
 ---
 
