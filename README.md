@@ -5,7 +5,7 @@
 
 As Large Language Models (LLMs) demonstrate strong performance in their ability to reason, plan, and make decisions, many researchers are studying how to leverage these models to perform various tasks in diverse environments, hence the term Language Agents.
 
-📚 This awesome (and ongoing) repository aims to provide a comprehensive, organized list of LLM/language agent benchmarks! _Pull requests and issues are welcome!_ 😎
+📚 This awesome (and ongoing) repository aims to provide a comprehensive, organized list of LLM/language agent benchmarks! As a bonus, we also provide a comprehensive list of other awesome language-agent-adjacent lists. _Pull requests and issues are welcome!_ 😎
 
 ---
 
@@ -194,3 +194,26 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 ### RAG
 
 ### LLM
+
+- https://github.com/Hannibal046/Awesome-LLM
+- https://github.com/Shubhamsaboo/awesome-llm-apps
+- https://github.com/shure-dev/Awesome-LLM-Papers-Comprehensive-Topics
+- https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+- https://github.com/tensorchord/Awesome-LLMOps
+- https://github.com/hijkzzz/Awesome-LLM-Strawberry
+- https://github.com/WangRongsheng/awesome-LLM-resourses
+- https://github.com/GT-RIPL/Awesome-LLM-Robotics
+- https://github.com/DefTruth/Awesome-LLM-Inference
+- https://github.com/luban-agi/Awesome-Domain-LLM
+- https://github.com/WLiK/LLM4Rec-Awesome-Papers
+- https://github.com/RManLuo/Awesome-LLM-KG
+- https://github.com/jackaduma/awesome_LLMs_interview_notes
+- https://github.com/XiaoxinHe/Awesome-Graph-LLM
+- https://github.com/fr0gger/Awesome-GPT-Agents
+- https://github.com/atfortes/Awesome-LLM-Reasoning
+- https://github.com/codefuse-ai/Awesome-Code-LLM
+- https://github.com/JShollaj/awesome-llm-interpretability
+- https://github.com/lmmlzn/Awesome-LLMs-Datasets
+- https://github.com/horseee/Awesome-Efficient-LLM
+- https://github.com/corca-ai/awesome-llm-security
+- https://github.com/HuangOwen/Awesome-LLM-Compression
