@@ -75,13 +75,14 @@
 
 
 RAG:
+
 - Yang, Xiao, et al. "CRAG--Comprehensive RAG Benchmark." arXiv preprint arXiv:2406.04744 (2024). [[paper](https://arxiv.org/abs/2406.04744)] [[project](https://github.com/facebookresearch/CRAG/)]
 - Wang, Shuting, et al. "OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain." arXiv preprint arXiv:2412.13018 (2024). [[paper](https://arxiv.org/abs/2412.13018)] [[project](https://github.com/RUC-NLPIR/OmniEval)]
 - Lyu, Yuanjie, et al. "Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models." ACM Transactions on Information Systems (2024). [[paper](https://dl.acm.org/doi/abs/10.1145/3701228)] [[project](https://github.com/IAAR-Shanghai/CRUD_RAG)]
 - Pipitone, Nicholas, and Ghita Houir Alami. "LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain." arXiv preprint arXiv:2408.10343 (2024). [[paper](https://arxiv.org/abs/2408.10343)] [[project](https://github.com/ZeroEntropy-AI/legalbenchrag)]
 - *RAG*-ConfusionQA [[paper](https://arxiv.org/abs/2410.14567)] [[project](https://github.com/zhiyuanpeng/RAG-ConfusionQA)] [Request access]
 - Kuzman, Taja, et al. "PandaChat-RAG: Towards the Benchmark for Slovenian RAG Applications." (2024).[[paper](https://is.ijs.si/wp-content/uploads/2024/10/SCAI_2024_paper_0538.pdf)] [[project](https://github.com/TajaKuzman/pandachat-rag-benchmark)]
-- GEM [[paper](https://aclanthology.org/2021.gem-1.10/)] [[project](https://huggingface.co/datasets/GEM/gem)]
+- Gehrmann, Sebastian, et al. "The gem benchmark: Natural language generation, its evaluation and metrics." arXiv preprint arXiv:2102.01672 (2021). [[paper](https://aclanthology.org/2021.gem-1.10/)] [[project](https://huggingface.co/datasets/GEM/gem)]
 - Gehrmann, Sebastian, et al. "Gemv2: Multilingual nlg benchmarking in a single line of code." arXiv preprint arXiv:2206.11249 (2022).  [[paper](https://arxiv.org/abs/2206.11249)]
 
 ---
