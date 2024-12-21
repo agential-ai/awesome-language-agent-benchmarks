@@ -65,8 +65,28 @@
 
 ---
 
-Tool-Use:
+**Tool-Use**
 - Wang, Jize, et al. "GTA: A Benchmark for General Tool Agents." arXiv preprint arXiv:2407.08713 (2024). [[paper](https://arxiv.org/abs/2407.08713)] [[project](https://github.com/open-compass/GTA)]
 - Yao, Shunyu, et al. "$\tau $-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains." arXiv preprint arXiv:2406.12045 (2024). [[paper](https://arxiv.org/abs/2406.12045)] [[project](https://github.com/sierra-research/tau-bench)]
 - Lu, Jiarui, et al. "Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities." arXiv preprint arXiv:2408.04682 (2024). [[paper](https://arxiv.org/abs/2408.04682)] [[project](https://github.com/apple/ToolSandbox)]
 - Chen, Zehui, et al. "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step." arXiv preprint arXiv:2312.14033 (2023). [[paper](https://arxiv.org/abs/2312.14033)] [[project](https://github.com/open-compass/T-Eval)]
+
+---
+
+**Multi-Agent**
+- Ossowski, Timothy, et al. "COMMA: A Communicative Multimodal Multi-Agent Benchmark." arXiv preprint arXiv:2410.07553 (2024). [[paper](https://arxiv.org/abs/2410.07553)]
+- Wainwright, Marcus. “AI-Olympics: A Multi-Agent Benchmark for Evaluation of Active Inference.” [[paper](https://www.semanticscholar.org/paper/AI-Olympics%3A-A-Multi-Agent-Benchmark-for-Evaluation-Wainwright/4eab872366b0b0605f2c58f1f0cc17441a69e9a0)]
+- Li, Yiming, et al. "V2X-Sim: Multi-agent collaborative perception dataset and benchmark for autonomous driving." IEEE Robotics and Automation Letters 7.4 (2022): 10914-10921. [[paper](https://ieeexplore.ieee.org/abstract/document/9835036?casa_token=C5VNzuCWkQEAAAAA:-zEsnhIufpQS6IGy8ZwQDgOmLjxP7hIevrb5nuigrAdjAk30HaMKsG2w6OmQx20diOLQAz9NhA)] [[project](https://ai4ce.github.io/V2X-Sim/)]
+- Yang, Xianliang, et al. "A versatile multi-agent reinforcement learning benchmark for inventory management." arXiv preprint arXiv:2306.07542 (2023). [[paper](https://arxiv.org/abs/2306.07542)]
+- Vinitsky, Eugene, et al. "Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world." Advances in Neural Information Processing Systems 35 (2022): 3962-3974. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/191e9e721a2748a860714fb23aaf7c5d-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/facebookresearch/nocturne)]
+- Wang, Xihuai, et al. "Zsc-eval: An evaluation toolkit and benchmark for multi-agent zero-shot coordination." The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track. 2024. [[paper](https://openreview.net/forum?id=9aXjIBLwKc#discussion)] [[project](https://github.com/sjtu-marl/ZSC-Eval)]
+- Mi, Qirui, et al. "Taxai: A dynamic economic simulator and benchmark for multi-agent reinforcement learning." arXiv preprint arXiv:2309.16307 (2023). [[paper](https://arxiv.org/abs/2309.16307)] [[project](https://github.com/jidiai/TaxAI)]
+- Kannan, Shyam Sundar, Vishnunandan LN Venkatesh, and Byung-Cheol Min. "Smart-llm: Smart multi-agent robot task planning using large language models." arXiv preprint arXiv:2309.10062 (2023). [[paper](https://arxiv.org/abs/2309.10062)] [[project](https://github.com/SMARTlab-Purdue/SMART-LLM)]
+- Xu, Lin, et al. "MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration." arXiv preprint arXiv:2311.08562 (2023). [[paper](https://arxiv.org/abs/2311.08562)] [[project](https://zhiyuanhubj.github.io/MAgIC/)]
+- Skrynnik, Alexey, et al. "POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation." arXiv preprint arXiv:2407.14931 (2024). [[paper](https://arxiv.org/abs/2407.14931)] [[project](https://github.com/AIRI-Institute/pogema-benchmark)]
+- Li, Jiaoyang, et al. "MAPF-LNS2: Fast repairing for multi-agent path finding via large neighborhood search." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 36. No. 9. 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21266)] [[project](https://github.com/Jiaoyang-Li/MAPF-LNS2)]
+- Jeon, Jeewon, et al. "Maser: Multi-agent reinforcement learning with subgoals generated from experience replay buffer." International Conference on Machine Learning. PMLR, 2022. [[paper](https://proceedings.mlr.press/v162/jeon22a.html)]
+- Wang, Weizheng, et al. "Multi-robot cooperative socially-aware navigation using multi-agent reinforcement learning." 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10611322?casa_token=lrAM0ZnNSLEAAAAA:SqszOO-TuRfTOG2XL0jRKxHs0fRWcS3om8MsFIrXkgMyvAiysLalBjBT0QOMejNMR9oMaC-DWA)]
+- Pan, Xuehai, et al. "Mate: Benchmarking multi-agent reinforcement learning in distributed target coverage control." Advances in Neural Information Processing Systems 35 (2022): 27862-27879. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)]
+
+
