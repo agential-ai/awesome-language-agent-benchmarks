@@ -29,6 +29,7 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 4. [🧰 Tool-Use](#-tool-use)
 5. [🔍 RAG](#-rag)
 6. [🤖🤖 Multi-Agent](#-multi-agent)
+7. [🗄️ Other Awesome Lists](#-other-awesome-lists)
 
 ---
 
@@ -159,3 +160,15 @@ As Large Language Models (LLMs) demonstrate strong performance in their ability 
 - Kannan, Shyam Sundar, Vishnunandan LN Venkatesh, and Byung-Cheol Min. "Smart-llm: Smart multi-agent robot task planning using large language models." arXiv preprint arXiv:2309.10062 (2023). [[paper](https://arxiv.org/abs/2309.10062)] [[project](https://github.com/SMARTlab-Purdue/SMART-LLM)]
 - Xu, Lin, et al. "MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration." arXiv preprint arXiv:2311.08562 (2023). [[paper](https://arxiv.org/abs/2311.08562)] [[project](https://zhiyuanhubj.github.io/MAgIC/)]
 
+## 🗄️ Other Awesome Lists
+
+- https://github.com/ysymyth/awesome-language-agents
+- https://github.com/AGI-Edgerunners/LLM-Agents-Papers
+- https://github.com/zjunlp/LLMAgentPapers
+- https://github.com/hyp1231/awesome-llm-powered-agent
+- https://github.com/AGI-Edgerunners/LLM-Planning-Papers
+- https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers
+- https://github.com/ysymyth/awesome-language-agents
+- https://github.com/kaushikb11/awesome-llm-agents
+- https://github.com/e2b-dev/awesome-ai-agents
+- https://github.com/kyrolabs/awesome-agents
