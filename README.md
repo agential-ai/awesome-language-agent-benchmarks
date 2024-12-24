@@ -161,7 +161,6 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Yao, Shunyu, et al. "**Webshop: Towards scalable real-world web interaction with grounded language agents.**" Advances in Neural Information Processing Systems 35 (2022): 20744-20757. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html)] [[project](https://webshop-pnlp.github.io)]
 - Lin, Kevin Qinghong, et al. "**VideoGUI: A Benchmark for GUI Automation from Instructional Videos.**" arXiv preprint arXiv:2406.10227 (2024). [[paper](https://showlab.github.io/videogui/assets/preprint.pdf)] [[project](https://showlab.github.io/videogui/)]
 - Deng, Xiang, et al. "**Mind2web: Towards a generalist agent for the web.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)] [[project](https://osu-nlp-group.github.io/Mind2Web/)]
-- Drouin, Alexandre, et al. "**WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?.**" arXiv preprint arXiv:2403.07718 (2024). [[paper](https://arxiv.org/abs/2403.07718)] [[project](https://servicenow.github.io/WorkArena/)]
 - Shi, Tianlin, et al. "**World of bits: An open-domain platform for web-based agents.**" International Conference on Machine Learning. PMLR, 2017. [[paper](https://proceedings.mlr.press/v70/shi17a)]
   
 
