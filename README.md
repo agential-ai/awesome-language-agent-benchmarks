@@ -145,8 +145,10 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Styles, Olly, et al. "**WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting.**" arXiv preprint arXiv:2405.00823 (2024). [[paper](https://arxiv.org/abs/2405.00823)]
 - Drouin, Alexandre, et al. "**WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?.**" arXiv preprint arXiv:2403.07718 (2024). [[paper](https://arxiv.org/abs/2403.07718)] [[project](https://github.com/ServiceNow/WorkArena)]
 - Humphreys, Peter C., et al. "**A data-driven approach for learning to control computers.**" International Conference on Machine Learning. PMLR, 2022. [[paper](https://arxiv.org/pdf/2202.08137)]
+- Gao, Difei, et al. "Assistgui: Task-oriented desktop graphical user interface automation." arXiv preprint arXiv:2312.13108 (2023). [[paper](https://arxiv.org/abs/2312.13108)] [[project](https://showlab.github.io/assistgui/)]
 
 
+- [[paper]()] [[project]()]
 ### Web
 
 - Zhang, Ziniu, et al. "**MMInA: Benchmarking Multihop Multimodal Internet Agents.**" arXiv preprint arXiv:2404.09992 (2024). [[paper](https://arxiv.org/abs/2404.09992)] [[project](https://mmina.cliangyu.com/)]
@@ -178,7 +180,6 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Zhang, Chi, et al. "**Appagent: Multimodal agents as smartphone users.**" arXiv preprint arXiv:2312.13771 (2023). [[paper](https://arxiv.org/abs/2312.13771)] [[project](https://appagent-official.github.io/)]
 - Zhang, Danyang, Lu Chen, and Kai Yu. "**Zhang, Danyang, et al. "Mobile-env: an evaluation platform and benchmark for LLM-GUI interaction." arXiv preprint arXiv:2305.08144 (2023).**" arXiv preprint arXiv:2305.08144 (2023). [[paper](https://arxiv.org/html/2305.08144v3)]
 
-- [[paper]()] [[project]()]
 
 ### Documents
 
