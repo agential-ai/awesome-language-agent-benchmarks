@@ -58,6 +58,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Min, Sewon, et al. "**AmbigQA: Answering ambiguous open-domain questions.**" arXiv preprint arXiv:2004.10645 (2020). [[paper](https://arxiv.org/abs/2004.10645)] [[project](https://nlp.cs.washington.edu/ambigqa/)]
 - Hendrycks, Dan, et al. "**Measuring massive multitask language understanding.**" arXiv preprint arXiv:2009.03300 (2020). [[paper](https://arxiv.org/abs/2009.03300)] [[project](https://github.com/hendrycks/test)]
 
+
 #### Math
 
 - Cobbe, Karl, et al. "**Training verifiers to solve math word problems.**" arXiv preprint arXiv:2110.14168 (2021). [[paper](https://arxiv.org/abs/2110.14168)] [[project](https://github.com/openai/grade-school-math)]
@@ -65,10 +66,12 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Lu, Pan, et al. "**Dynamic prompt learning via policy gradient for semi-structured mathematical reasoning.**" arXiv preprint arXiv:2209.14610 (2022). [[paper](https://arxiv.org/abs/2209.14610)] [[project](https://promptpg.github.io/)]
 - Hendrycks, Dan, et al. "**Measuring mathematical problem solving with the math dataset.**" arXiv preprint arXiv:2103.03874 (2021). [[paper](https://arxiv.org/abs/2103.03874)] [[project](https://github.com/hendrycks/math/)]
 
+
 #### Code
 
 - Chen, Mark, et al. "**Evaluating large language models trained on code.**" arXiv preprint arXiv:2107.03374 (2021). [[paper](https://arxiv.org/abs/2107.03374)] [[project](https://github.com/openai/human-eval)]
 - Austin, Jacob, et al. "**Program synthesis with large language models.**" arXiv preprint arXiv:2108.07732 (2021). [[paper](https://arxiv.org/pdf/2108.07732)] [[project](https://github.com/google-research/google-research/tree/master/mbpp)]
+
 
 ### Embodied
 
@@ -90,6 +93,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Liu, Xiao, et al. "**Visualagentbench: Towards large multimodal models as visual foundation agents.**" arXiv preprint arXiv:2408.06327 (2024). [[paper](https://arxiv.org/abs/2408.06327)] [[project](https://github.com/THUDM/VisualAgentBench)]
 - Ma, Chang, et al. "**AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents.**" arXiv preprint arXiv:2401.13178 (2024). [[paper](https://arxiv.org/abs/2401.13178)] [[project](https://hkust-nlp.github.io/agentboard/)]
 
+
 ### Multi-Task
 
 - Yin, Guoli, et al. "**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains.**" arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
@@ -99,6 +103,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Li, Youquan, et al. "**FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback.**" arXiv preprint arXiv:2410.09412 (2024). [[paper](https://arxiv.org/abs/2410.09412)]
 - Shen, Yongliang, et al. "**Taskbench: Benchmarking large language models for task automation.**" arXiv preprint arXiv:2311.18760 (2023). [[paper](https://arxiv.org/abs/2311.18760)] [[project](https://huggingface.co/datasets/microsoft/Taskbench)]
 
+
 ### Planning & Interaction
 
 - Valmeekam, Karthik, et al. "**Planbench: An extensible benchmark for evaluating large language models on planning and reasoning about change.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a92bcdede88c7afd108072faf5485c8-Abstract-Datasets_and_Benchmarks.html)] [[project](https://github.com/karthikv792/LLMs-Planning)]
@@ -106,6 +111,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Xie, Jian, et al. "**Travelplanner: A benchmark for real-world planning with language agents.**" arXiv preprint arXiv:2402.01622 (2024). [[paper](https://arxiv.org/abs/2402.01622)] [[project](https://osu-nlp-group.github.io/TravelPlanner/)]
 - Cheng, Ching-An, et al. "**Llf-bench: Benchmark for interactive learning from language feedback.**" arXiv preprint arXiv:2312.06853 (2023). [[paper](https://arxiv.org/abs/2312.06853)] [[project](https://github.com/microsoft/LLF-Bench)]
 - Wu, Cheng-Kuang, et al. "**StreamBench: Towards Benchmarking Continuous Improvement of Language Agents.**" arXiv preprint arXiv:2406.08747 (2024). [[paper](https://arxiv.org/abs/2406.08747)] [[project](https://github.com/stream-bench/stream-bench)]
+
 
 ### Role-Playing
 
@@ -153,7 +159,10 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Yao, Shunyu, et al. "**Webshop: Towards scalable real-world web interaction with grounded language agents.**" Advances in Neural Information Processing Systems 35 (2022): 20744-20757. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html)] [[project](https://webshop-pnlp.github.io)]
 - Lin, Kevin Qinghong, et al. "**VideoGUI: A Benchmark for GUI Automation from Instructional Videos.**" arXiv preprint arXiv:2406.10227 (2024). [[paper](https://showlab.github.io/videogui/assets/preprint.pdf)] [[project](https://showlab.github.io/videogui/)]
 - Deng, Xiang, et al. "**Mind2web: Towards a generalist agent for the web.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)] [[project](https://osu-nlp-group.github.io/Mind2Web/)]
-
+- Drouin, Alexandre, et al. "**WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?.**" arXiv preprint arXiv:2403.07718 (2024). [[paper](https://arxiv.org/abs/2403.07718)] [[project](https://servicenow.github.io/WorkArena/)]
+- Shi, Tianlin, et al. "**World of bits: An open-domain platform for web-based agents.**" International Conference on Machine Learning. PMLR, 2017. [[paper](https://proceedings.mlr.press/v70/shi17a)]
+- Yao, Shunyu, et al. "Webshop: Towards scalable real-world web interaction with grounded language agents." Advances in Neural Information Processing Systems 35 (2022): 20744-20757. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html)] [[project](https://webshop-pnlp.github.io/)]
+  
 
 ### Mobile
 
@@ -163,6 +172,13 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Lee, Juyong, et al. "**Benchmarking Mobile Device Control Agents across Diverse Configurations.**" arXiv preprint arXiv:2404.16660 (2024). [[paper](https://arxiv.org/abs/2404.16660)] [[project](https://b-moca.github.io)]
 - Wang, Luyuan, et al. "**MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents.**" arXiv preprint arXiv:2406.08184 (2024). [[paper](https://arxiv.org/abs/2406.08184)] [[project](https://mobileagentbench.github.io)]
 - Trivedi, Harsh, et al. "**Appworld: A controllable world of apps and people for benchmarking interactive coding agents.**" arXiv preprint arXiv:2407.18901 (2024). [[paper](https://arxiv.org/abs/2407.18901)] [[project](https://github.com/StonyBrookNLP/appworld)]
+- Li, Yang, et al. "**Mapping natural language instructions to mobile UI action sequences.**" arXiv preprint arXiv:2005.03776 (2020). [[paper](https://arxiv.org/abs/2005.03776)] [[project](https://github.com/deepneuralmachine/seq2act-tensorflow)]
+- Sun, Liangtai, et al. "**Meta-gui: Towards multi-modal conversational agents on mobile gui.**" arXiv preprint arXiv:2205.11029 (2022). [[paper](https://arxiv.org/abs/2205.11029)] [[project](https://x-lance.github.io/META-GUI-Leaderboard/)]
+- Wang, Junyang, et al. "**Mobile-agent: Autonomous multi-modal mobile device agent with visual perception.**" arXiv preprint arXiv:2401.16158 (2024). [[paper](https://arxiv.org/abs/2401.16158)]
+- Zhang, Chi, et al. "**Appagent: Multimodal agents as smartphone users.**" arXiv preprint arXiv:2312.13771 (2023). [[paper](https://arxiv.org/abs/2312.13771)] [[project](https://appagent-official.github.io/)]
+- Zhang, Danyang, Lu Chen, and Kai Yu. "**Zhang, Danyang, et al. "Mobile-env: an evaluation platform and benchmark for LLM-GUI interaction." arXiv preprint arXiv:2305.08144 (2023).**" arXiv preprint arXiv:2305.08144 (2023). [[paper](https://arxiv.org/html/2305.08144v3)]
+
+- [[paper]()] [[project]()]
 
 ### Documents
 
@@ -184,7 +200,9 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Guo, Chengquan, et al. "**RedCode: Risky Code Execution and Generation Benchmark for Code Agents.**" arXiv preprint arXiv:2411.07781 (2024). [[paper](https://arxiv.org/abs/2411.07781)] [[project](https://github.com/AI-secure/RedCode)]
 - Zhuo, Terry Yue, et al. "**Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions.**" arXiv preprint arXiv:2406.15877 (2024). [[paper](https://arxiv.org/abs/2406.15877)] [[project](https://github.com/bigcode-project/bigcodebench)]
 - Zhang, Yaolun, et al. "**PyBench: Evaluating LLM Agent on various real-world coding tasks.**" arXiv preprint arXiv:2407.16732 (2024). [[paper](https://arxiv.org/abs/2407.16732)]
-
+- Yang, John, et al. "**Intercode: Standardizing and benchmarking interactive coding with execution feedback.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b175d846fb008d540d233c188379ff9-Abstract-Datasets_and_Benchmarks.html)] [[project](https://intercode-benchmark.github.io/)]
+- Li, Bowen, et al. "**Devbench: A comprehensive benchmark for software development.**" arXiv preprint arXiv:2403.08604 (2024). [[paper](https://arxiv.org/abs/2403.08604)] [[project](https://github.com/open-compass/DevEval)]
+- Si, Chenglei, et al. "**Design2Code: How Far Are We From Automating Front-End Engineering?.**" arXiv preprint arXiv:2403.03163 (2024). [[paper](https://arxiv.org/abs/2403.03163)] [[project](https://salt-nlp.github.io/Design2Code/)]
 
 ### Data Science & ML
 
