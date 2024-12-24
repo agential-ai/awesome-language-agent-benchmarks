@@ -145,7 +145,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Styles, Olly, et al. "**WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting.**" arXiv preprint arXiv:2405.00823 (2024). [[paper](https://arxiv.org/abs/2405.00823)]
 - Drouin, Alexandre, et al. "**WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?.**" arXiv preprint arXiv:2403.07718 (2024). [[paper](https://arxiv.org/abs/2403.07718)] [[project](https://github.com/ServiceNow/WorkArena)]
 - Humphreys, Peter C., et al. "**A data-driven approach for learning to control computers.**" International Conference on Machine Learning. PMLR, 2022. [[paper](https://arxiv.org/pdf/2202.08137)]
-- Gao, Difei, et al. "Assistgui: Task-oriented desktop graphical user interface automation." arXiv preprint arXiv:2312.13108 (2023). [[paper](https://arxiv.org/abs/2312.13108)] [[project](https://showlab.github.io/assistgui/)]
+- Gao, Difei, et al. "**Assistgui: Task-oriented desktop graphical user interface automation.**" arXiv preprint arXiv:2312.13108 (2023). [[paper](https://arxiv.org/abs/2312.13108)] [[project](https://showlab.github.io/assistgui/)]
 
 
 ### Web
