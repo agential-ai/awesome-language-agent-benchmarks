@@ -148,7 +148,6 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Gao, Difei, et al. "Assistgui: Task-oriented desktop graphical user interface automation." arXiv preprint arXiv:2312.13108 (2023). [[paper](https://arxiv.org/abs/2312.13108)] [[project](https://showlab.github.io/assistgui/)]
 
 
-- [[paper]()] [[project]()]
 ### Web
 
 - Zhang, Ziniu, et al. "**MMInA: Benchmarking Multihop Multimodal Internet Agents.**" arXiv preprint arXiv:2404.09992 (2024). [[paper](https://arxiv.org/abs/2404.09992)] [[project](https://mmina.cliangyu.com/)]
