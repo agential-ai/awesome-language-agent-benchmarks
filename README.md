@@ -87,6 +87,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Game-Playing
 
+- Qian, Cheng, et al. "**EscapeBench: Pushing Language Models to Think Outside the Box.**" arXiv preprint arXiv:2412.13549 (2024). [[paper](https://arxiv.org/abs/2412.13549)] [[project](https://github.com/qiancheng0/EscapeBench)]
 - Wu, Yue, et al. "**Smartplay: A benchmark for llms as intelligent agents.**" arXiv preprint arXiv:2310.01557 (2023). [[paper](https://arxiv.org/abs/2310.01557)]
 - Gioacchini, Luca, et al. "**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents.**" arXiv preprint arXiv:2404.06411 (2024). [[paper](https://arxiv.org/abs/2404.06411)] [[project](https://github.com/nec-research/agentquest)]
 - Liu, Xiao, et al. "**Agentbench: Evaluating llms as agents.**" arXiv preprint arXiv:2308.03688 (2023). [[paper](https://arxiv.org/abs/2308.03688)] [[project](https://github.com/THUDM/AgentBench)]
