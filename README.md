@@ -217,6 +217,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 ## 🧰 Tool-Use
 ---
 
+- Patil, Shishir G., et al. "**Gorilla: Large language model connected with massive apis.**" arXiv preprint arXiv:2305.15334 (2023). [[paper](https://arxiv.org/pdf/2305.15334)] [[project](https://gorilla.cs.berkeley.edu/)]
 - Wang, Jize, et al. "**GTA: A Benchmark for General Tool Agents.**" arXiv preprint arXiv:2407.08713 (2024). [[paper](https://arxiv.org/abs/2407.08713)] [[project](https://github.com/open-compass/GTA)]
 - Yao, Shunyu, et al. "**$\tau $-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains.**" arXiv preprint arXiv:2406.12045 (2024). [[paper](https://arxiv.org/abs/2406.12045)] [[project](https://github.com/sierra-research/tau-bench)]
 - Lu, Jiarui, et al. "**Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities.**" arXiv preprint arXiv:2408.04682 (2024). [[paper](https://arxiv.org/abs/2408.04682)] [[project](https://github.com/apple/ToolSandbox)]
