@@ -201,6 +201,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Yang, John, et al. "**Intercode: Standardizing and benchmarking interactive coding with execution feedback.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b175d846fb008d540d233c188379ff9-Abstract-Datasets_and_Benchmarks.html)] [[project](https://intercode-benchmark.github.io/)]
 - Li, Bowen, et al. "**Devbench: A comprehensive benchmark for software development.**" arXiv preprint arXiv:2403.08604 (2024). [[paper](https://arxiv.org/abs/2403.08604)] [[project](https://github.com/open-compass/DevEval)]
 - Si, Chenglei, et al. "**Design2Code: How Far Are We From Automating Front-End Engineering?.**" arXiv preprint arXiv:2403.03163 (2024). [[paper](https://arxiv.org/abs/2403.03163)] [[project](https://salt-nlp.github.io/Design2Code/)]
+- Wang, Xingyao, et al. "**Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**" arXiv preprint arXiv:2309.10691 (2023). [[paper](https://arxiv.org/abs/2309.10691)] [[project](https://xwang.dev/mint-bench/)]
 
 ### Data Science & ML
 
@@ -213,10 +214,12 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Chen, Ziru, et al. "**Scienceagentbench: Toward rigorous assessment of language agents for data-driven scientific discovery.**" arXiv preprint arXiv:2410.05080 (2024). [[paper](https://arxiv.org/abs/2410.05080)] [[project](https://osu-nlp-group.github.io/ScienceAgentBench/)]
 - Jansen, Peter, et al. "**DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents.**" arXiv preprint arXiv:2406.06769 (2024). [[paper](https://arxiv.org/abs/2406.06769)] [[project](https://github.com/allenai/discoveryworld)]
 - Huang, Qian, et al. "**Benchmarking large language models as ai research agents.**" NeurIPS 2023 Foundation Models for Decision Making Workshop. 2023. [[paper](https://openreview.net/forum?id=kXlTY0BmK3)] [[project](https://github.com/snap-stanford/MLAgentBench)]
+- Majumder, Bodhisattwa Prasad, et al. "**Discoverybench: Towards data-driven discovery with large language models.**" arXiv preprint arXiv:2407.01725 (2024). [[paper]([https://arxiv.org/abs/2402.17168](https://arxiv.org/abs/2407.01725))] [[project](https://github.com/allenai/discoverybench)]
 
 ## 🧰 Tool-Use
 ---
 
+- Zhuang, Yuchen, et al. "**Toolqa: A dataset for llm question answering with external tools.**" Advances in Neural Information Processing Systems 36 (2023): 50117-50143. [[paper](https://arxiv.org/abs/2306.13304)] [[project](https://github.com/night-chen/ToolQA)]
 - Patil, Shishir G., et al. "**Gorilla: Large language model connected with massive apis.**" arXiv preprint arXiv:2305.15334 (2023). [[paper](https://arxiv.org/pdf/2305.15334)] [[project](https://gorilla.cs.berkeley.edu/)]
 - Wang, Jize, et al. "**GTA: A Benchmark for General Tool Agents.**" arXiv preprint arXiv:2407.08713 (2024). [[paper](https://arxiv.org/abs/2407.08713)] [[project](https://github.com/open-compass/GTA)]
 - Yao, Shunyu, et al. "**$\tau $-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains.**" arXiv preprint arXiv:2406.12045 (2024). [[paper](https://arxiv.org/abs/2406.12045)] [[project](https://github.com/sierra-research/tau-bench)]
