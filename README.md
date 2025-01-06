@@ -166,6 +166,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Mobile
 
+- Chai, Yuxiang, et al. "**A3: Android Agent Arena for Mobile GUI Agents.**" arXiv preprint arXiv:2501.01149 (2025). [[paper](https://arxiv.org/abs/2501.01149)] [[project](https://yxchai.com/Android-Agent-Arena/)]
 - Deng, Shihan, et al. "**Mobile-bench: An evaluation benchmark for llm-based mobile agents.**" arXiv preprint arXiv:2407.00993 (2024). [[paper](https://arxiv.org/abs/2407.00993)]
 - Rawles, Christopher, et al. "**AndroidWorld: A dynamic benchmarking environment for autonomous agents.**" arXiv preprint arXiv:2405.14573 (2024). [[paper](https://arxiv.org/abs/2405.14573)] [[project](https://google-research.github.io/android_world/)]
 - Zhang, Danyang, et al. "**Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction.**" arXiv preprint arXiv:2305.08144 (2023). [[paper](https://rhythmcao.github.io/publication/2024-mobile-env/2024-mobile-env.pdf)] [[project](https://github.com/X-LANCE/Mobile-Env)]
