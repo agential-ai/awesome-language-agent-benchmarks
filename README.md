@@ -97,6 +97,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Multi-Task
 
+- Chen, Kaiyuan, et al. "**xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations.**" arXiv preprint arXiv:2506.13651 (2025). [[paper](https://arxiv.org/abs/2506.13651)] [[project](https://xbench.org/)]
 - Yin, Guoli, et al. "**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains.**" arXiv preprint arXiv:2407.18961 (2024). [[paper](https://arxiv.org/abs/2407.18961)] [[project](https://github.com/apple/axlearn/tree/main/docs/research/mmau)]
 - Liu, Zhiwei, et al. "**Bolaa: Benchmarking and orchestrating llm-augmented autonomous agents.**" arXiv preprint arXiv:2308.05960 (2023). [[paper](https://arxiv.org/abs/2308.05960)] [[project](https://github.com/salesforce/BOLAA)]
 - Mialon, Grégoire, et al. "**Gaia: a benchmark for general ai assistants.**" arXiv preprint arXiv:2311.12983 (2023). [[paper](https://arxiv.org/abs/2311.12983)] [[project](https://huggingface.co/gaia-benchmark)]
@@ -125,6 +126,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Adversarial
 
+- Kuntz, Thomas, et al. "**OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents.**" arXiv preprint arXiv:2506.14866 (2025). [[paper](https://arxiv.org/abs/2506.14866)] [[project](https://github.com/tml-epfl/os-harm)]
 - Debenedetti, Edoardo, et al. "**AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.**" arXiv preprint arXiv:2406.13352 (2024). [[paper](https://arxiv.org/abs/2406.13352)] [[project](https://github.com/ethz-spylab/agentdojo)]
 - Zhang, Hanrong, et al. "**Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents.**" arXiv preprint arXiv:2410.02644 (2024). [[paper](https://arxiv.org/abs/2410.02644)] [[project](https://github.com/agiresearch/ASB)]
 - Andriushchenko, Maksym, et al. "**Agentharm: A benchmark for measuring harmfulness of llm agents.**" arXiv preprint arXiv:2410.09024 (2024). [[paper](https://arxiv.org/abs/2410.09024)] [[project](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)]
@@ -138,6 +140,8 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Computer
 
+- Yang, Pei, Hai Ci, and Mike Zheng Shou. "**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents.**" arXiv preprint arXiv:2506.04135 (2025). [[paper](https://arxiv.org/abs/2506.04135)] [[project](https://github.com/showlab/macosworld)]
+- Bu, Wendong, et al. "**What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities.**" arXiv preprint arXiv:2506.08933 (2025). [[paper](https://arxiv.org/abs/2506.08933)] [[project](https://omni-bench.github.io/)]
 - Abhyankar, Reyna, Qi Qi, and Yiying Zhang. "**OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents.**" arXiv preprint arXiv:2506.16042 (2025). [[paper](https://arxiv.org/abs/2506.16042)]
 - Kapoor, Raghav, et al. "**OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web.**" European Conference on Computer Vision. Springer, Cham, 2025. [[paper](https://arxiv.org/abs/2402.17553)]
 - Xu, Tianqi, et al. "**Crab: Cross-environment agent benchmark for multimodal language model agents.**" arXiv preprint arXiv:2407.01511 (2024). [[paper](https://arxiv.org/abs/2407.01511)] [[project](https://github.com/camel-ai/crab)]
@@ -152,6 +156,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Web
 
+- Miyai, Atsuyuki, et al. "**WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks.**" arXiv preprint arXiv:2506.01952 (2025). [[paper](https://arxiv.org/abs/2506.01952)] [[project](https://webchorearena.github.io/)]
 - Zhang, Ziniu, et al. "**MMInA: Benchmarking Multihop Multimodal Internet Agents.**" arXiv preprint arXiv:2404.09992 (2024). [[paper](https://arxiv.org/abs/2404.09992)] [[project](https://mmina.cliangyu.com/)]
 - Zhou, Shuyan, et al. "**Webarena: A realistic web environment for building autonomous agents.**" arXiv preprint arXiv:2307.13854 (2023). [[paper](https://arxiv.org/abs/2307.13854)] [[project](https://webarena.dev)]
 - Koh, Jing Yu, et al. "**Visualwebarena: Evaluating multimodal agents on realistic visual web tasks.**" arXiv preprint arXiv:2401.13649 (2024). [[paper](https://arxiv.org/abs/2401.13649)] [[project](https://jykoh.com/vwa)]
