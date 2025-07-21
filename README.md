@@ -138,6 +138,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Computer
 
+- Abhyankar, Reyna, Qi Qi, and Yiying Zhang. "**OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents.**" arXiv preprint arXiv:2506.16042 (2025). [[paper](https://arxiv.org/abs/2506.16042)]
 - Kapoor, Raghav, et al. "**OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web.**" European Conference on Computer Vision. Springer, Cham, 2025. [[paper](https://arxiv.org/abs/2402.17553)]
 - Xu, Tianqi, et al. "**Crab: Cross-environment agent benchmark for multimodal language model agents.**" arXiv preprint arXiv:2407.01511 (2024). [[paper](https://arxiv.org/abs/2407.01511)] [[project](https://github.com/camel-ai/crab)]
 - Xie, Tianbao, et al. "**Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments.**" arXiv preprint arXiv:2404.07972 (2024). [[paper](https://arxiv.org/abs/2404.07972)] [[project](https://os-world.github.io)]
