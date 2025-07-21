@@ -157,6 +157,8 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Web
 
+- Song, Yixiao, et al. "**Bearcubs: A benchmark for computer-using web agents.**" arXiv preprint arXiv:2503.07919 (2025). [[paper](https://arxiv.org/abs/2503.07919)] [[project](https://bear-cubs.github.io/)]
+- Pan, Yichen, et al. "**Webcanvas: Benchmarking web agents in online environments.**" arXiv preprint arXiv:2406.12373 (2024). [[paper](https://arxiv.org/abs/2406.12373)] [[project](https://www.imean.ai/web-canvas)]
 - Miyai, Atsuyuki, et al. "**WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks.**" arXiv preprint arXiv:2506.01952 (2025). [[paper](https://arxiv.org/abs/2506.01952)] [[project](https://webchorearena.github.io/)]
 - Zhang, Ziniu, et al. "**MMInA: Benchmarking Multihop Multimodal Internet Agents.**" arXiv preprint arXiv:2404.09992 (2024). [[paper](https://arxiv.org/abs/2404.09992)] [[project](https://mmina.cliangyu.com/)]
 - Zhou, Shuyan, et al. "**Webarena: A realistic web environment for building autonomous agents.**" arXiv preprint arXiv:2307.13854 (2023). [[paper](https://arxiv.org/abs/2307.13854)] [[project](https://webarena.dev)]
