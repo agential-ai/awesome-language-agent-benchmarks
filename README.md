@@ -140,6 +140,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 
 ### Computer
 
+- Zhao, Henry Hengyuan, et al. "**WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point.**" arXiv preprint arXiv:2502.08047 (2025). [[paper](https://arxiv.org/abs/2502.08047)] [[project](https://github.com/showlab/WorldGUI)]
 - Yang, Pei, Hai Ci, and Mike Zheng Shou. "**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents.**" arXiv preprint arXiv:2506.04135 (2025). [[paper](https://arxiv.org/abs/2506.04135)] [[project](https://github.com/showlab/macosworld)]
 - Bu, Wendong, et al. "**What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities.**" arXiv preprint arXiv:2506.08933 (2025). [[paper](https://arxiv.org/abs/2506.08933)] [[project](https://omni-bench.github.io/)]
 - Abhyankar, Reyna, Qi Qi, and Yiying Zhang. "**OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents.**" arXiv preprint arXiv:2506.16042 (2025). [[paper](https://arxiv.org/abs/2506.16042)]
