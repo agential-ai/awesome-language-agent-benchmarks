@@ -173,6 +173,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Deng, Xiang, et al. "**Mind2web: Towards a generalist agent for the web.**" Advances in Neural Information Processing Systems 36 (2024). [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)] [[project](https://osu-nlp-group.github.io/Mind2Web/)]
 - Shi, Tianlin, et al. "**World of bits: An open-domain platform for web-based agents.**" International Conference on Machine Learning. PMLR, 2017. [[paper](https://proceedings.mlr.press/v70/shi17a)]
 - Wu, Jialong, et al. "**WebWalker: Benchmarking LLMs in Web Traversal.**" arXiv preprint arXiv:2501.07572 (2025). [[paper](https://arxiv.org/abs/2501.07572)] [[project](https://github.com/Alibaba-nlp/WebWalker)]
+- Zhang, Yuxuan, et al. "**ClawBench: Can AI Agents Complete Everyday Online Tasks?**" arXiv preprint arXiv:2604.08523 (2026). [[paper](https://arxiv.org/abs/2604.08523)] [[project](https://claw-bench.com)] [[code](https://github.com/reacher-z/ClawBench)]
   
 
 ### Mobile
