@@ -104,6 +104,7 @@ Depending on the domain, some agents are tested on LLM benchmarks. So we briefly
 - Wang, Wei, et al. "**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems.**" arXiv preprint arXiv:2408.15971 (2024). [[paper](https://arxiv.org/abs/2408.15971)] [[project](https://github.com/THUDM/BattleAgentBench)]
 - Li, Youquan, et al. "**FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback.**" arXiv preprint arXiv:2410.09412 (2024). [[paper](https://arxiv.org/abs/2410.09412)]
 - Shen, Yongliang, et al. "**Taskbench: Benchmarking large language models for task automation.**" arXiv preprint arXiv:2311.18760 (2023). [[paper](https://arxiv.org/abs/2311.18760)] [[project](https://huggingface.co/datasets/microsoft/Taskbench)]
+- Huang, Pengcheng, et al. "**Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution.**" arXiv preprint arXiv:2610.17816 (2026). [[paper](https://arxiv.org/abs/2610.17816)] [[project](https://passionate11.github.io/ec2-bench-project-page/)]
 
 
 ### Planning & Interaction
